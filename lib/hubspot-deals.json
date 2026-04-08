@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 58937686680,
+    "dealname": "erin garnhum -Shekou International School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-05-08T01:58:48Z",
+    "createdate": "2026-04-08T01:58:56.726Z",
+    "hs_lastmodifieddate": "2026-04-08T01:59:22.231Z"
+  },
+  {
+    "id": 58899341715,
+    "dealname": "Dwight School Hanoi - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "1791",
+    "closedate": "2026-05-07T14:36:19.452Z",
+    "createdate": "2026-04-07T14:36:24.871Z",
+    "hs_lastmodifieddate": "2026-04-07T14:45:42.731Z"
+  },
+  {
+    "id": 58798234282,
+    "dealname": "Maynard Holbrook Jackson High School - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "20848.22",
+    "closedate": "2026-05-07T03:20:06.549Z",
+    "createdate": "2026-04-07T03:20:11.441Z",
+    "hs_lastmodifieddate": "2026-04-07T15:45:11.235Z"
+  },
+  {
+    "id": 58829199384,
+    "dealname": "Paulami Datta -The Heritage School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "1791",
+    "closedate": "2026-05-04T13:20:03Z",
+    "createdate": "2026-04-04T13:20:10.413Z",
+    "hs_lastmodifieddate": "2026-04-05T19:05:03.293Z"
+  },
+  {
+    "id": 58727758636,
+    "dealname": "Paulami Datta -The Heritage School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2189",
+    "closedate": "2026-05-03T11:40:05Z",
+    "createdate": "2026-04-03T11:40:12.188Z",
+    "hs_lastmodifieddate": "2026-04-04T20:08:22.046Z"
+  },
+  {
+    "id": 58670990490,
+    "dealname": "Daiju Vithayathil -Panyaden International School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-05-02T03:05:26Z",
+    "createdate": "2026-04-02T03:05:32.638Z",
+    "hs_lastmodifieddate": "2026-04-03T19:15:30.444Z"
+  },
+  {
+    "id": 58479619381,
+    "dealname": "International School of Curaçao",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-03-31T00:03:30.458Z",
+    "createdate": "2026-03-30T05:23:48.181Z",
+    "hs_lastmodifieddate": "2026-04-01T05:41:19.750Z"
+  },
+  {
+    "id": 58479559333,
+    "dealname": "Modern Knowledge Schools - Extra Students 3",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-04-07T03:31:59.301Z",
+    "createdate": "2026-03-30T04:22:40.383Z",
+    "hs_lastmodifieddate": "2026-04-07T03:32:05.224Z"
+  },
+  {
+    "id": 58369008969,
+    "dealname": "Association International School - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "4998.48",
+    "closedate": "2026-04-25T13:22:46.427Z",
+    "createdate": "2026-03-26T12:22:53.960Z",
+    "hs_lastmodifieddate": "2026-04-06T20:33:30.378Z"
+  },
+  {
+    "id": 58289386083,
+    "dealname": "Beaconhouse Newlands Multan - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "1014",
+    "closedate": "2026-04-24T11:07:36.969Z",
+    "createdate": "2026-03-25T10:07:43.978Z",
+    "hs_lastmodifieddate": "2026-04-04T18:56:06.817Z"
+  },
+  {
+    "id": 58295691359,
+    "dealname": "James Island Charter High School - Students",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2195.6",
+    "closedate": "2026-04-24T00:05:33.093Z",
+    "createdate": "2026-03-24T23:05:47.316Z",
+    "hs_lastmodifieddate": "2026-04-07T17:56:53.780Z"
+  },
+  {
+    "id": 58262912383,
+    "dealname": "JESSICA YANG -my school is not listed ",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2786",
+    "closedate": "2026-04-24T06:03:02Z",
+    "createdate": "2026-03-24T06:03:09.723Z",
+    "hs_lastmodifieddate": "2026-04-05T21:14:59.758Z"
+  },
+  {
+    "id": 58228629613,
+    "dealname": "Rosalie Shyu -South Shore International College Prep High School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-04-20T18:00:23Z",
+    "createdate": "2026-03-20T18:00:38.780Z",
+    "hs_lastmodifieddate": "2026-04-06T01:36:53.014Z"
+  },
+  {
+    "id": 58134839652,
+    "dealname": "Gimnazija Banja Luka",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-04-18T02:17:32.471Z",
+    "createdate": "2026-03-19T02:17:53.301Z",
+    "hs_lastmodifieddate": "2026-04-03T19:17:12.132Z"
+  },
+  {
+    "id": 58134715439,
+    "dealname": "Wellington College - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3300",
+    "closedate": "2026-03-23T10:15:56.490Z",
+    "createdate": "2026-03-18T23:57:38.664Z",
+    "hs_lastmodifieddate": "2026-04-05T07:17:39.697Z"
+  },
+  {
+    "id": 58025291779,
+    "dealname": "High School Attached to Northeast Normal University - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-04-16T01:16:28.605Z",
+    "createdate": "2026-03-17T01:17:04.496Z",
+    "hs_lastmodifieddate": "2026-03-28T19:52:13.104Z"
+  },
+  {
+    "id": 57939012440,
+    "dealname": "Shiv Nadar School Gurugram | Pro-rated",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "1001.21",
+    "closedate": "2026-04-30T04:55:59.893Z",
+    "createdate": "2026-03-13T03:55:53.831Z",
+    "hs_lastmodifieddate": "2026-04-05T17:33:10.040Z"
+  },
+  {
+    "id": 57941026849,
+    "dealname": "PIPL Lyceum - Second  Instalment",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1497",
+    "closedate": "2026-04-01T10:24:26.198Z",
+    "createdate": "2026-03-12T13:40:57.327Z",
+    "hs_lastmodifieddate": "2026-04-06T09:39:08.160Z"
+  },
+  {
+    "id": 57954524496,
+    "dealname": "Mohammed Etify -Egyptian International School-Zayed (EIS-Zayed)",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-04-15T11:49:36.729Z",
+    "createdate": "2026-03-12T06:18:28.295Z",
+    "hs_lastmodifieddate": "2026-04-02T14:20:40.307Z"
+  },
+  {
+    "id": 57830153783,
+    "dealname": "Gymnázium A. Sládkoviča - Upgrade",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1311",
+    "closedate": "2026-03-19T10:32:52.946Z",
+    "createdate": "2026-03-10T11:30:07.349Z",
+    "hs_lastmodifieddate": "2026-04-05T10:30:36.739Z"
+  },
+  {
+    "id": 57830079537,
+    "dealname": "Li Po Chun United World College of Hong Kong - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3978",
+    "closedate": "2026-03-11T14:50:28.742Z",
+    "createdate": "2026-03-09T21:49:41.632Z",
+    "hs_lastmodifieddate": "2026-04-05T12:43:07.552Z"
+  },
+  {
+    "id": 57833017683,
+    "dealname": "MARIA JOSE LOPEZ THIENEL -St. Margaret's British School for Girls",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-03-09T19:06:28.337Z",
+    "createdate": "2026-03-09T19:02:48.317Z",
+    "hs_lastmodifieddate": "2026-03-11T18:41:30.479Z"
+  },
+  {
+    "id": 57573398676,
+    "dealname": "Joseph Gitau -Westwood International School",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-04-15T11:49:34.663Z",
+    "createdate": "2026-03-05T08:33:31.403Z",
+    "hs_lastmodifieddate": "2026-04-04T11:02:16.012Z"
+  },
+  {
+    "id": 57447744823,
+    "dealname": "Aspee Nutan Academy - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "199",
+    "closedate": "2026-04-15T11:49:33.179Z",
+    "createdate": "2026-03-04T10:22:16.624Z",
+    "hs_lastmodifieddate": "2026-04-07T03:03:52.381Z"
+  },
+  {
+    "id": 57331469606,
+    "dealname": "Egyptian International School-Zayed (EIS-Zayed)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-03-02T11:13:42.057Z",
+    "createdate": "2026-03-02T09:53:16.917Z",
+    "hs_lastmodifieddate": "2026-04-01T11:01:52.479Z"
+  },
+  {
+    "id": 57326848585,
+    "dealname": "Ozel İstanbul Akademik Sistem Okullari",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1393",
+    "closedate": "2026-03-13T10:56:57.910Z",
+    "createdate": "2026-03-02T07:55:37.058Z",
+    "hs_lastmodifieddate": "2026-04-01T11:01:49.932Z"
+  },
+  {
+    "id": 57307664247,
+    "dealname": "Windermere School ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2600",
+    "closedate": "2026-04-07T03:32:48.642Z",
+    "createdate": "2026-03-01T23:36:06.524Z",
+    "hs_lastmodifieddate": "2026-04-07T03:32:53.148Z"
+  },
+  {
+    "id": 57086229625,
+    "dealname": "Alexandre Frohlich",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-02-26T11:28:59.549Z",
+    "createdate": "2026-02-26T08:48:03.973Z",
+    "hs_lastmodifieddate": "2026-04-05T17:40:16.555Z"
+  },
+  {
+    "id": 57021843973,
+    "dealname": "GEMS Wellington International School - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2990",
+    "closedate": "2026-06-30T09:18:06.858Z",
+    "createdate": "2026-02-26T08:13:36.878Z",
+    "hs_lastmodifieddate": "2026-04-06T02:43:46.326Z"
+  },
+  {
+    "id": 56778483979,
+    "dealname": "Essa Education & Consulting",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1592",
+    "closedate": "2026-03-01T22:57:01.387Z",
+    "createdate": "2026-02-22T13:36:08.532Z",
+    "hs_lastmodifieddate": "2026-03-25T11:02:11.677Z"
+  },
+  {
+    "id": 56646632586,
+    "dealname": "Makassed Houssam Eddine Hariri High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3760.14",
+    "closedate": "2026-03-30T00:08:31.312Z",
+    "createdate": "2026-02-20T09:10:35.139Z",
+    "hs_lastmodifieddate": "2026-04-05T07:53:18.291Z"
+  },
+  {
+    "id": 56611312523,
+    "dealname": "GEMS American Academy - Abu Dhabi - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "4544.25",
+    "closedate": "2026-09-01T10:15:28.265Z",
+    "createdate": "2026-02-19T09:10:02.898Z",
+    "hs_lastmodifieddate": "2026-04-05T07:50:43.746Z"
+  },
+  {
+    "id": 56443321779,
+    "dealname": "The King's School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3287.01",
+    "closedate": "2026-03-13T10:49:28.462Z",
+    "createdate": "2026-02-16T22:30:52.322Z",
+    "hs_lastmodifieddate": "2026-04-05T05:08:36.695Z"
+  },
+  {
+    "id": 56443137344,
+    "dealname": "Australian International Academy Caroline Springs Senior Campus - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3090",
+    "closedate": "2026-02-27T05:19:51.771Z",
+    "createdate": "2026-02-16T22:24:54.173Z",
+    "hs_lastmodifieddate": "2026-04-05T07:54:39.306Z"
+  },
+  {
+    "id": 56443074721,
+    "dealname": "York Academy Regional Charter School - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "17464.65",
+    "closedate": "2026-07-31T11:47:43.046Z",
+    "createdate": "2026-02-16T21:54:52.791Z",
+    "hs_lastmodifieddate": "2026-04-05T08:35:26.001Z"
+  },
+  {
+    "id": 56279666574,
+    "dealname": "Glenview Park Secondary School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1184",
+    "closedate": "2026-02-22T22:00:59.311Z",
+    "createdate": "2026-02-16T00:39:05.984Z",
+    "hs_lastmodifieddate": "2026-04-05T00:34:15.188Z"
+  },
+  {
+    "id": 56012766586,
+    "dealname": "Stephen Cheon -Santa Sabina College",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-02-15T23:11:22.253Z",
+    "createdate": "2026-02-10T23:52:07.561Z",
+    "hs_lastmodifieddate": "2026-03-13T11:02:16.970Z"
+  },
+  {
+    "id": 55872504693,
+    "dealname": "Yashar Sherzad -INTERNATIONAL MAARIF SCHOOLS ERBIL",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-02-10T08:06:24.552Z",
+    "createdate": "2026-02-10T08:02:50.475Z",
+    "hs_lastmodifieddate": "2026-03-26T09:38:26.690Z"
+  },
+  {
+    "id": 55827462970,
+    "dealname": "Heritage High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3581.53",
+    "closedate": "2026-03-26T10:39:08.259Z",
+    "createdate": "2026-02-10T00:43:05.082Z",
+    "hs_lastmodifieddate": "2026-04-05T10:25:18.135Z"
+  },
+  {
+    "id": 55882037379,
+    "dealname": "Ullens School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "756",
+    "closedate": "2026-02-20T07:25:59.888Z",
+    "createdate": "2026-02-09T23:26:25.352Z",
+    "hs_lastmodifieddate": "2026-04-05T02:25:18.519Z"
+  },
+  {
+    "id": 55585987896,
+    "dealname": "Enko Abidjan - 3/3  ",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "1520",
+    "closedate": "2026-04-15T11:47:07.762Z",
+    "createdate": "2026-02-05T12:45:35.472Z",
+    "hs_lastmodifieddate": "2026-04-05T10:44:48.760Z"
+  },
+  {
+    "id": 55581039455,
+    "dealname": "Enko Abidjan - 2/3 ",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2990",
+    "closedate": "2026-04-15T11:47:12.996Z",
+    "createdate": "2026-02-05T12:45:21.869Z",
+    "hs_lastmodifieddate": "2026-04-05T10:58:19.405Z"
+  },
+  {
+    "id": 55475460722,
+    "dealname": "Enko Abidjan - 1/3",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2990",
+    "closedate": "2026-03-09T22:20:22.507Z",
+    "createdate": "2026-02-05T12:45:06.608Z",
+    "hs_lastmodifieddate": "2026-04-05T07:56:02.888Z"
+  },
+  {
+    "id": 55475241259,
+    "dealname": "PIPL Lyceum - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1497",
+    "closedate": "2026-03-12T13:39:15.864Z",
+    "createdate": "2026-02-04T13:13:02.814Z",
+    "hs_lastmodifieddate": "2026-04-05T11:57:48.708Z"
+  },
+  {
+    "id": 55475177519,
+    "dealname": "Richmond Park School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1386",
+    "closedate": "2026-03-23T10:13:43.402Z",
+    "createdate": "2026-02-04T11:58:05.078Z",
+    "hs_lastmodifieddate": "2026-04-05T05:47:12.166Z"
+  },
+  {
+    "id": 55307869821,
+    "dealname": "American Creativity Academy - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "5073",
+    "closedate": "2026-04-15T11:49:06.610Z",
+    "createdate": "2026-02-03T08:47:07.918Z",
+    "hs_lastmodifieddate": "2026-04-05T10:28:01.028Z"
+  },
+  {
+    "id": 55433162163,
+    "dealname": "International School of Europe - New Deal (5 Extra)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "795",
+    "closedate": "2026-02-25T06:57:21.008Z",
+    "createdate": "2026-02-03T01:23:36.555Z",
+    "hs_lastmodifieddate": "2026-04-05T05:30:08.421Z"
+  },
+  {
+    "id": 54956508068,
+    "dealname": "Royal High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "676.6",
+    "closedate": "2026-02-08T00:55:24.241Z",
+    "createdate": "2026-01-29T06:54:26.643Z",
+    "hs_lastmodifieddate": "2026-04-06T04:15:25.926Z"
+  },
+  {
+    "id": 54835480499,
+    "dealname": "International School of Poznan - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1432",
+    "closedate": "2026-01-29T22:12:37.175Z",
+    "createdate": "2026-01-28T04:25:00.103Z",
+    "hs_lastmodifieddate": "2026-04-05T11:16:03.776Z"
+  },
+  {
+    "id": 54654842414,
+    "dealname": "JBCN International School, Oshiwara",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1592",
+    "closedate": "2026-02-08T01:28:10.957Z",
+    "createdate": "2026-01-27T09:21:35.561Z",
+    "hs_lastmodifieddate": "2026-03-22T15:37:04.442Z"
+  },
+  {
+    "id": 54610037516,
+    "dealname": "Roong Aroon International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-01-30T05:37:15.393Z",
+    "createdate": "2026-01-27T04:00:21.236Z",
+    "hs_lastmodifieddate": "2026-04-05T10:31:35.337Z"
+  },
+  {
+    "id": 54615875183,
+    "dealname": "Anglo-Chinese School (Independent)",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "49900",
+    "closedate": "2026-02-20T09:37:12.068Z",
+    "createdate": "2026-01-27T00:21:09.982Z",
+    "hs_lastmodifieddate": "2026-04-05T08:40:55.121Z"
+  },
+  {
+    "id": 54362051182,
+    "dealname": "Gonzaga Campus - International School Palermo - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3478",
+    "closedate": "2026-02-02T00:27:46.394Z",
+    "createdate": "2026-01-23T03:51:49.950Z",
+    "hs_lastmodifieddate": "2026-04-05T08:32:35.458Z"
+  },
+  {
+    "id": 54324941972,
+    "dealname": "Giant Leap LLC (Additional)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "747",
+    "closedate": "2026-01-23T04:03:36.377Z",
+    "createdate": "2026-01-22T03:13:46.630Z",
+    "hs_lastmodifieddate": "2026-04-05T18:55:29.698Z"
+  },
+  {
+    "id": 54235220552,
+    "dealname": "Pan-Asia International School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2026-01-30T07:58:29.335Z",
+    "createdate": "2026-01-20T04:05:08.098Z",
+    "hs_lastmodifieddate": "2026-04-05T12:38:08.418Z"
+  },
+  {
+    "id": 54078731633,
+    "dealname": "Uruguayan American School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2107",
+    "closedate": "2026-01-27T08:42:59.159Z",
+    "createdate": "2026-01-19T22:34:18.544Z",
+    "hs_lastmodifieddate": "2026-04-05T08:39:07.510Z"
+  },
+  {
+    "id": 53956381330,
+    "dealname": "American International School of Lagos - New Deal",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "2000",
+    "closedate": "2026-04-15T11:43:41.864Z",
+    "createdate": "2026-01-15T11:31:15.131Z",
+    "hs_lastmodifieddate": "2026-04-07T12:23:00.260Z"
+  },
+  {
+    "id": 53979454797,
+    "dealname": "GEMS International School Cairo - 2/2 Instalment ",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "6844",
+    "closedate": "2026-08-30T12:03:05.506Z",
+    "createdate": "2026-01-15T11:03:34.599Z",
+    "hs_lastmodifieddate": "2026-04-05T11:44:12.643Z"
+  },
+  {
+    "id": 53696897097,
+    "dealname": "The British School New Delhi - Pro Rated",
+    "dealstage": "1009776417",
+    "pipeline": "689991596",
+    "amount": "530",
+    "closedate": "2026-04-15T11:40:38.383Z",
+    "createdate": "2026-01-14T10:47:26.122Z",
+    "hs_lastmodifieddate": "2026-04-07T03:02:08.597Z"
+  },
+  {
+    "id": 53449463874,
+    "dealname": "Navajo Preparatory School Inc.",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-01-16T20:39:31.048Z",
+    "createdate": "2026-01-08T22:10:33.909Z",
+    "hs_lastmodifieddate": "2026-02-09T20:58:02.719Z"
+  },
+  {
+    "id": 53394296647,
+    "dealname": "United World College Maastricht - Full Suite",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "29577.68",
+    "closedate": "2026-01-27T08:35:47.414Z",
+    "createdate": "2026-01-08T08:02:40.310Z",
+    "hs_lastmodifieddate": "2026-04-08T10:05:10.554Z"
+  },
+  {
+    "id": 53393736861,
+    "dealname": "Monte Sant' Angelo Mercy College - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "7104.16",
+    "closedate": "2026-02-20T07:34:18.707Z",
+    "createdate": "2026-01-08T03:12:52.237Z",
+    "hs_lastmodifieddate": "2026-04-06T22:09:43.164Z"
+  },
+  {
+    "id": 52901256567,
+    "dealname": "Eyuboglu Schools - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2026-01-01T23:25:56.556Z",
+    "createdate": "2026-01-02T01:48:40.090Z",
+    "hs_lastmodifieddate": "2026-04-05T10:29:16.292Z"
+  },
+  {
+    "id": 52088139279,
+    "dealname": "Liceum Ogolnoksztalcace nr V - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-19T04:44:54.746Z",
+    "createdate": "2025-12-19T04:44:35.021Z",
+    "hs_lastmodifieddate": "2026-04-05T11:40:56.570Z"
+  },
+  {
+    "id": 51875269811,
+    "dealname": "Seisen International School Mathematics Department",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-01T09:32:51.935Z",
+    "createdate": "2025-12-15T09:32:55.903Z",
+    "hs_lastmodifieddate": "2026-04-05T05:04:19.537Z"
+  },
+  {
+    "id": 51767208785,
+    "dealname": "Chinese International School InSo teachers",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1432.8",
+    "closedate": "2026-01-08T02:54:33.560Z",
+    "createdate": "2025-12-12T06:54:06.948Z",
+    "hs_lastmodifieddate": "2026-04-06T05:58:37.976Z"
+  },
+  {
+    "id": 51340149072,
+    "dealname": "The American School of Kinshasa (TASOK) - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4361.26",
+    "closedate": "2025-12-16T22:50:39.418Z",
+    "createdate": "2025-12-09T09:22:19.283Z",
+    "hs_lastmodifieddate": "2026-04-06T13:38:10.152Z"
+  },
+  {
+    "id": 51446631609,
+    "dealname": "Dulwich College Shanghai Minhang - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2026-01-06T08:16:24.136Z",
+    "createdate": "2025-12-09T06:07:56.773Z",
+    "hs_lastmodifieddate": "2026-04-05T05:11:19.418Z"
+  },
+  {
+    "id": 51340176948,
+    "dealname": "Andersen International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4861",
+    "closedate": "2025-12-15T13:06:48.620Z",
+    "createdate": "2025-12-07T22:19:39.246Z",
+    "hs_lastmodifieddate": "2026-04-06T01:05:58.745Z"
+  },
+  {
+    "id": 51317295425,
+    "dealname": "Giant Leap LLC",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4182",
+    "closedate": "2025-12-12T03:33:24.467Z",
+    "createdate": "2025-12-07T21:57:56.677Z",
+    "hs_lastmodifieddate": "2026-04-05T07:36:09.392Z"
+  },
+  {
+    "id": 51268347904,
+    "dealname": "Rotterdam International Secondary School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-12-05T01:33:19.792Z",
+    "createdate": "2025-12-05T01:33:22.612Z",
+    "hs_lastmodifieddate": "2026-04-05T08:44:01.560Z"
+  },
+  {
+    "id": 51083984032,
+    "dealname": "Tashkent International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "8997.87",
+    "closedate": "2025-12-22T07:47:14.243Z",
+    "createdate": "2025-12-04T05:49:02.541Z",
+    "hs_lastmodifieddate": "2026-04-06T14:03:11.180Z"
+  },
+  {
+    "id": 51145291089,
+    "dealname": "GKS Multinational (OPC) Pvt. Ltd. -my school is not listed ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-04T06:01:39.400Z",
+    "createdate": "2025-12-04T04:52:58.263Z",
+    "hs_lastmodifieddate": "2026-03-05T01:04:27.174Z"
+  },
+  {
+    "id": 51173313697,
+    "dealname": "Arushi Rishi -my school is not listed ",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-12-04T04:39:13.441Z",
+    "hs_lastmodifieddate": "2026-03-05T00:49:41.673Z"
+  },
+  {
+    "id": 51244888379,
+    "dealname": "Juan Pablo Vivar",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-11T23:11:14.912Z",
+    "createdate": "2025-12-04T02:33:31.681Z",
+    "hs_lastmodifieddate": "2026-04-05T04:11:01.190Z"
+  },
+  {
+    "id": 51071139408,
+    "dealname": "GEMS International School Cairo - 1/2 Instalment",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "6844",
+    "closedate": "2026-03-17T10:34:56.741Z",
+    "createdate": "2025-12-03T03:58:19.720Z",
+    "hs_lastmodifieddate": "2026-04-06T09:22:55.247Z"
+  },
+  {
+    "id": 50907081092,
+    "dealname": "Tim Vaughan -",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-12-01T23:00:56.829Z",
+    "hs_lastmodifieddate": "2026-03-02T00:54:21.223Z"
+  },
+  {
+    "id": 50886723338,
+    "dealname": "Tim Vaughan -ACG Parnell College",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-12-01T23:00:42.501Z",
+    "hs_lastmodifieddate": "2026-03-02T00:58:47.971Z"
+  },
+  {
+    "id": 50770733101,
+    "dealname": "British School Brasilia - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2720.95",
+    "closedate": "2025-12-01T20:40:21.491Z",
+    "createdate": "2025-12-01T20:39:48.468Z",
+    "hs_lastmodifieddate": "2026-04-05T08:19:38.433Z"
+  },
+  {
+    "id": 50775777192,
+    "dealname": "Arushi Rishi -",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-12-01T14:52:53.432Z",
+    "hs_lastmodifieddate": "2026-03-02T00:34:35.657Z"
+  },
+  {
+    "id": 50563613083,
+    "dealname": "VI Montessori School and Peter Gruber Intl Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-11-01T04:03:51.098Z",
+    "createdate": "2025-11-28T04:03:15.830Z",
+    "hs_lastmodifieddate": "2026-04-06T11:38:59.347Z"
+  },
+  {
+    "id": 49779144852,
+    "dealname": "German International School Sydney (GISS) - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "750",
+    "closedate": "2025-12-12T09:10:47.374Z",
+    "createdate": "2025-11-24T02:04:06.076Z",
+    "hs_lastmodifieddate": "2026-04-05T05:24:50.327Z"
+  },
+  {
+    "id": 49908853359,
+    "dealname": "Colegio Brains María Lombillo | Double Payment",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-11-23T23:35:47.539Z",
+    "createdate": "2025-11-23T23:33:07.050Z",
+    "hs_lastmodifieddate": "2026-04-05T20:03:05.554Z"
+  },
+  {
+    "id": 49908853120,
+    "dealname": "Vefa High  School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3200",
+    "closedate": "2025-11-27T08:24:42.100Z",
+    "createdate": "2025-11-23T22:47:50.554Z",
+    "hs_lastmodifieddate": "2026-04-05T03:38:58.173Z"
+  },
+  {
+    "id": 49778946448,
+    "dealname": "Ali Akbar Petiwala - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-11-28T00:47:42.148Z",
+    "createdate": "2025-11-21T18:06:43.447Z",
+    "hs_lastmodifieddate": "2026-04-05T08:33:38.687Z"
+  },
+  {
+    "id": 49768725113,
+    "dealname": "Fountainhead School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-12-01T04:47:20.497Z",
+    "createdate": "2025-11-21T11:26:29.445Z",
+    "hs_lastmodifieddate": "2026-04-05T10:10:06.074Z"
+  },
+  {
+    "id": 49641879852,
+    "dealname": "Amman Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-11-21T05:28:57.066Z",
+    "createdate": "2025-11-21T05:28:02.363Z",
+    "hs_lastmodifieddate": "2026-04-05T14:18:15.606Z"
+  },
+  {
+    "id": 49690617268,
+    "dealname": "Global Paradigm Baccalaureate School - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "2813",
+    "closedate": "2026-04-01T10:38:46.989Z",
+    "createdate": "2025-11-20T11:13:59.594Z",
+    "hs_lastmodifieddate": "2026-04-04T18:58:50.174Z"
+  },
+  {
+    "id": 49684813601,
+    "dealname": "Naavu School - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2026-02-20T09:17:14.569Z",
+    "createdate": "2025-11-20T10:45:12.558Z",
+    "hs_lastmodifieddate": "2026-04-06T01:56:25.173Z"
+  },
+  {
+    "id": 49530775403,
+    "dealname": " Smiling International School  - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2925",
+    "closedate": "2025-12-12T03:37:25.682Z",
+    "createdate": "2025-11-18T12:35:19.631Z",
+    "hs_lastmodifieddate": "2026-04-05T17:39:20.328Z"
+  },
+  {
+    "id": 49448193322,
+    "dealname": "Amsterdam Liberal Arts & Sciences Academie (ALASCA) - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4818",
+    "closedate": "2025-12-02T20:25:48.153Z",
+    "createdate": "2025-11-18T12:14:51.447Z",
+    "hs_lastmodifieddate": "2026-04-05T01:22:52.300Z"
+  },
+  {
+    "id": 49530898721,
+    "dealname": "TRIO World Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-11-25T12:06:03.421Z",
+    "createdate": "2025-11-18T11:59:28.907Z",
+    "hs_lastmodifieddate": "2026-04-05T16:02:57.269Z"
+  },
+  {
+    "id": 49530774057,
+    "dealname": "Shawnee Mission Northwest High School - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "15868.2",
+    "closedate": "2025-12-12T09:03:10.307Z",
+    "createdate": "2025-11-18T11:21:26.841Z",
+    "hs_lastmodifieddate": "2026-04-05T19:28:38.815Z"
+  },
+  {
+    "id": 49221163429,
+    "dealname": "Sameer Shaikh -Chatrabhuj Narsee School - Amanora",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1990",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-17T07:49:27.094Z",
+    "hs_lastmodifieddate": "2026-02-16T01:32:23.380Z"
+  },
+  {
+    "id": 49178766678,
+    "dealname": "Zaid Kawar -Amman Academy",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-16T06:48:51.143Z",
+    "hs_lastmodifieddate": "2026-02-15T00:33:23.925Z"
+  },
+  {
+    "id": 49149906032,
+    "dealname": "Sameer Shaikh -Chatrabhuj Narsee School - Amanora",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1990",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-15T07:27:27.654Z",
+    "hs_lastmodifieddate": "2026-02-14T01:25:33.780Z"
+  },
+  {
+    "id": 49164124228,
+    "dealname": "Sameer Shaikh -Chatrabhuj Narsee School, Amanora",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1990",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-15T04:55:34.313Z",
+    "hs_lastmodifieddate": "2026-02-14T00:29:08.797Z"
+  },
+  {
+    "id": 49170883448,
+    "dealname": "Sameer Shaikh -CHATRABHUJ NARSEE SCHOOL, Amanora",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1990",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-15T04:52:38.547Z",
+    "hs_lastmodifieddate": "2026-02-14T00:50:47.828Z"
+  },
+  {
+    "id": 49069942686,
+    "dealname": "Frederik II videregående skole - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "750",
+    "closedate": "2025-11-17T00:27:27.216Z",
+    "createdate": "2025-11-14T11:52:50.342Z",
+    "hs_lastmodifieddate": "2026-04-05T07:02:34.698Z"
+  },
+  {
+    "id": 49069997965,
+    "dealname": "International School Los Angeles - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3699.54",
+    "closedate": "2025-11-17T12:54:32.803Z",
+    "createdate": "2025-11-14T02:18:18.950Z",
+    "hs_lastmodifieddate": "2026-04-04T20:39:10.706Z"
+  },
+  {
+    "id": 49009428907,
+    "dealname": "shweta agarwal -my school not listed",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-09T10:06:55.134Z",
+    "createdate": "2025-11-13T16:13:04.080Z",
+    "hs_lastmodifieddate": "2026-02-12T00:48:57.453Z"
+  },
+  {
+    "id": 48983613367,
+    "dealname": "Gems Academy Alexandria - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "748",
+    "closedate": "2025-11-14T05:29:35.017Z",
+    "createdate": "2025-11-13T12:37:35.960Z",
+    "hs_lastmodifieddate": "2026-04-04T23:38:27.360Z"
+  },
+  {
+    "id": 48886912435,
+    "dealname": "Oakridge International School - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "24826.25",
+    "closedate": "2025-12-12T09:00:42.360Z",
+    "createdate": "2025-11-13T10:35:20.878Z",
+    "hs_lastmodifieddate": "2026-04-05T12:15:43.858Z"
+  },
+  {
+    "id": 48943174787,
+    "dealname": "Queensland Academy for Health Sciences - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "31602.17",
+    "closedate": "2026-03-23T10:19:11.278Z",
+    "createdate": "2025-11-13T10:02:15.786Z",
+    "hs_lastmodifieddate": "2026-04-05T08:28:54.708Z"
+  },
+  {
+    "id": 48886999418,
+    "dealname": "Shekou International School - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "9306",
+    "closedate": "2025-12-08T08:02:24.686Z",
+    "createdate": "2025-11-12T12:36:05.872Z",
+    "hs_lastmodifieddate": "2026-04-05T09:23:47.894Z"
+  },
+  {
+    "id": 48859449655,
+    "dealname": "International College Spain - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "11493",
+    "closedate": "2025-11-20T00:20:26.012Z",
+    "createdate": "2025-11-12T08:25:01.208Z",
+    "hs_lastmodifieddate": "2026-04-05T09:42:11.151Z"
+  },
+  {
+    "id": 51063902824,
+    "dealname": "Isikkent High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "598",
+    "closedate": "2025-12-03T03:50:13.161Z",
+    "createdate": "2025-11-12T07:52:28.889Z",
+    "hs_lastmodifieddate": "2026-04-05T06:15:14.304Z"
+  },
+  {
+    "id": 48818471724,
+    "dealname": "Chatrabhuj Narsee School, Amanora",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1592",
+    "closedate": "2026-02-20T09:23:53.870Z",
+    "createdate": "2025-11-11T10:59:02.143Z",
+    "hs_lastmodifieddate": "2026-04-04T20:25:35.319Z"
+  },
+  {
+    "id": 48482328921,
+    "dealname": "International School of Latvia",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-11-07T10:00:28.631Z",
+    "createdate": "2025-11-07T05:35:35.612Z",
+    "hs_lastmodifieddate": "2026-04-06T11:53:02.717Z"
+  },
+  {
+    "id": 48380484764,
+    "dealname": "School Lane Charter School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1791",
+    "closedate": "2025-11-12T12:49:59.067Z",
+    "createdate": "2025-11-05T19:40:03.674Z",
+    "hs_lastmodifieddate": "2026-04-05T09:11:33.745Z"
+  },
+  {
+    "id": 48300928914,
+    "dealname": "Stanley Bacarro -Bahrain Middle High School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-11-26T09:10:25.441Z",
+    "createdate": "2025-11-05T11:09:05.691Z",
+    "hs_lastmodifieddate": "2026-04-05T10:51:01.191Z"
+  },
+  {
+    "id": 48172207199,
+    "dealname": "The International School of Macao",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-11-24T02:51:39.755Z",
+    "createdate": "2025-11-03T22:48:35.834Z",
+    "hs_lastmodifieddate": "2026-04-05T09:36:16.834Z"
+  },
+  {
+    "id": 48011037753,
+    "dealname": "St. Christopher's School, Bahrain - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-11-19T11:56:36.090Z",
+    "createdate": "2025-11-03T15:44:04.271Z",
+    "hs_lastmodifieddate": "2026-04-04T23:29:50.778Z"
+  },
+  {
+    "id": 47210339083,
+    "dealname": "EtonHouse International School, Suzhou - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-01T05:02:46.842Z",
+    "createdate": "2025-10-28T11:34:28.001Z",
+    "hs_lastmodifieddate": "2026-04-06T09:27:06.333Z"
+  },
+  {
+    "id": 47273693993,
+    "dealname": "Shane Nicklin -",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "1791",
+    "closedate": "2025-12-09T10:05:25.252Z",
+    "createdate": "2025-10-27T15:19:54.499Z",
+    "hs_lastmodifieddate": "2026-01-26T01:38:38.603Z"
+  },
+  {
+    "id": 47172395294,
+    "dealname": "Somersfield Academy - Math",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-11-13T11:18:19.574Z",
+    "createdate": "2025-10-27T08:32:41.477Z",
+    "hs_lastmodifieddate": "2026-04-05T05:03:48.472Z"
+  },
+  {
+    "id": 47172271731,
+    "dealname": "Evolution International School - NewGiza - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2025-11-13T09:29:18.880Z",
+    "createdate": "2025-10-27T07:59:04.178Z",
+    "hs_lastmodifieddate": "2026-04-04T19:12:41.436Z"
+  },
+  {
+    "id": 47172394271,
+    "dealname": "The Global College",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-01T20:33:19.515Z",
+    "createdate": "2025-10-27T07:11:33.232Z",
+    "hs_lastmodifieddate": "2026-04-05T06:51:13.590Z"
+  },
+  {
+    "id": 47103300149,
+    "dealname": "Fadimatou Nouhou -Afica",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "3980",
+    "closedate": "2025-12-09T10:05:25.252Z",
+    "createdate": "2025-10-25T23:23:51.306Z",
+    "hs_lastmodifieddate": "2026-01-24T01:04:26.606Z"
+  },
+  {
+    "id": 46875715459,
+    "dealname": "Baku Modern International School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-10-28T08:09:59.637Z",
+    "createdate": "2025-10-24T13:53:16.788Z",
+    "hs_lastmodifieddate": "2026-04-04T20:15:40.235Z"
+  },
+  {
+    "id": 46749239719,
+    "dealname": "Strawberry Crest High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2025-10-28T08:10:42.060Z",
+    "createdate": "2025-10-23T04:03:26.144Z",
+    "hs_lastmodifieddate": "2026-04-05T09:21:10.451Z"
+  },
+  {
+    "id": 46638076990,
+    "dealname": "Renaissance College - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "716",
+    "closedate": "2025-11-20T05:43:03.473Z",
+    "createdate": "2025-10-22T22:17:17.887Z",
+    "hs_lastmodifieddate": "2026-04-06T10:53:13.639Z"
+  },
+  {
+    "id": 46563589457,
+    "dealname": "MonAvenir Conseil Scolaire Catholique",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2026-02-20T09:19:12.504Z",
+    "createdate": "2025-10-21T00:03:29.946Z",
+    "hs_lastmodifieddate": "2026-04-05T00:38:52.930Z"
+  },
+  {
+    "id": 46291986041,
+    "dealname": "Robinson High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2040",
+    "closedate": "2025-11-19T13:18:16.848Z",
+    "createdate": "2025-10-17T02:22:30.298Z",
+    "hs_lastmodifieddate": "2026-04-05T09:41:22.148Z"
+  },
+  {
+    "id": 46110137642,
+    "dealname": "Australian International School Hong Kong - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-10-23T23:16:45.875Z",
+    "createdate": "2025-10-15T22:32:19.053Z",
+    "hs_lastmodifieddate": "2026-04-06T09:30:57.955Z"
+  },
+  {
+    "id": 46110322608,
+    "dealname": "Riverside Secondary School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1687",
+    "closedate": "2025-11-03T14:01:21.387Z",
+    "createdate": "2025-10-15T22:12:43.290Z",
+    "hs_lastmodifieddate": "2026-04-05T12:38:54.577Z"
+  },
+  {
+    "id": 46041850978,
+    "dealname": "Marvin Ridge High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2029",
+    "closedate": "2025-10-17T00:08:23.863Z",
+    "createdate": "2025-10-15T21:42:05.696Z",
+    "hs_lastmodifieddate": "2026-04-05T06:45:37.885Z"
+  },
+  {
+    "id": 45967930759,
+    "dealname": "Canadian International School of Hefei - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1611",
+    "closedate": "2025-11-13T13:19:53.495Z",
+    "createdate": "2025-10-15T09:20:58.909Z",
+    "hs_lastmodifieddate": "2026-04-06T12:40:45.443Z"
+  },
+  {
+    "id": 46002795669,
+    "dealname": "ACBED IBDP -Assumption College San Lorenzo Basic Education Division",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1990",
+    "closedate": "2025-10-21T00:32:11.130Z",
+    "createdate": "2025-10-15T05:34:31.415Z",
+    "hs_lastmodifieddate": "2026-04-04T21:18:01.733Z"
+  },
+  {
+    "id": 45758494233,
+    "dealname": "Deutsche Schule Beverly Hills Kairo",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4455.24",
+    "closedate": "2025-11-13T13:03:10.069Z",
+    "createdate": "2025-10-13T10:40:28.069Z",
+    "hs_lastmodifieddate": "2026-04-05T09:53:49.351Z"
+  },
+  {
+    "id": 45758617947,
+    "dealname": "Global United School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "999",
+    "closedate": "2025-10-13T21:51:36.082Z",
+    "createdate": "2025-10-13T10:38:14.717Z",
+    "hs_lastmodifieddate": "2026-04-05T07:15:02.083Z"
+  },
+  {
+    "id": 45758490790,
+    "dealname": "Hillsborough High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-10-20T01:28:08.412Z",
+    "createdate": "2025-10-13T07:37:56.987Z",
+    "hs_lastmodifieddate": "2026-04-05T11:23:52.914Z"
+  },
+  {
+    "id": 45814276445,
+    "dealname": "LYCEE FRANCO QATARIEN VOLTAIRE DOHA - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "895",
+    "closedate": "2025-11-12T01:25:16.277Z",
+    "createdate": "2025-10-13T01:25:23.974Z",
+    "hs_lastmodifieddate": "2026-04-06T07:15:46.221Z"
+  },
+  {
+    "id": 45758363773,
+    "dealname": "Swans International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-21T21:49:14.817Z",
+    "createdate": "2025-10-12T22:00:17.337Z",
+    "hs_lastmodifieddate": "2026-04-05T06:58:00.898Z"
+  },
+  {
+    "id": 45719553548,
+    "dealname": "Princeton International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3735",
+    "closedate": "2025-12-10T03:31:11.958Z",
+    "createdate": "2025-10-10T06:15:26.957Z",
+    "hs_lastmodifieddate": "2026-04-04T21:14:37.972Z"
+  },
+  {
+    "id": 45725808999,
+    "dealname": "Eyuboglu Schools ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-10T12:25:57.852Z",
+    "createdate": "2025-10-10T03:08:11.140Z",
+    "hs_lastmodifieddate": "2026-04-05T05:57:25.697Z"
+  },
+  {
+    "id": 45645710687,
+    "dealname": "St. Francis College ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-09T16:14:30.707Z",
+    "createdate": "2025-10-09T13:32:56.702Z",
+    "hs_lastmodifieddate": "2026-04-05T03:07:13.165Z"
+  },
+  {
+    "id": 45491317932,
+    "dealname": "German Embassy School Addis Ababa - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2533",
+    "closedate": "2025-10-15T04:17:46.226Z",
+    "createdate": "2025-10-09T01:17:47.097Z",
+    "hs_lastmodifieddate": "2026-04-05T07:31:52.865Z"
+  },
+  {
+    "id": 45558199986,
+    "dealname": "Alcanta International College",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1393",
+    "closedate": "2025-10-21T06:38:04.596Z",
+    "createdate": "2025-10-09T00:20:20.338Z",
+    "hs_lastmodifieddate": "2026-04-05T09:13:16.840Z"
+  },
+  {
+    "id": 45429376542,
+    "dealname": "LXMATH - New Deal",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "2086",
+    "closedate": "2025-12-09T10:01:11.148Z",
+    "createdate": "2025-10-08T02:20:22.581Z",
+    "hs_lastmodifieddate": "2026-04-05T13:20:03.995Z"
+  },
+  {
+    "id": 45417125973,
+    "dealname": "Cheshire Academy",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-10-13T00:24:42.803Z",
+    "createdate": "2025-10-07T20:44:45.010Z",
+    "hs_lastmodifieddate": "2026-04-05T10:46:14.062Z"
+  },
+  {
+    "id": 45389483576,
+    "dealname": "Ambassador International School (AIA)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1791",
+    "closedate": "2025-11-03T15:59:11.700Z",
+    "createdate": "2025-10-07T09:01:14.823Z",
+    "hs_lastmodifieddate": "2026-04-05T17:28:52.913Z"
+  },
+  {
+    "id": 45385302563,
+    "dealname": "Instituto Bilingüe Rudyard Kipling SC - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1353.2",
+    "closedate": "2025-10-13T01:21:00.986Z",
+    "createdate": "2025-10-06T23:54:11.338Z",
+    "hs_lastmodifieddate": "2026-04-05T05:13:33.029Z"
+  },
+  {
+    "id": 45144637335,
+    "dealname": "Aspee Nutan Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-10T11:25:48.588Z",
+    "createdate": "2025-10-06T10:26:27.407Z",
+    "hs_lastmodifieddate": "2026-04-05T06:31:25.524Z"
+  },
+  {
+    "id": 45291269159,
+    "dealname": "Ascend International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3600",
+    "closedate": "2025-11-13T13:17:38.894Z",
+    "createdate": "2025-10-06T07:16:57.822Z",
+    "hs_lastmodifieddate": "2026-04-05T17:37:59.870Z"
+  },
+  {
+    "id": 45173314853,
+    "dealname": "Guillermo Crespo Jiménez -International School San Patricio Toledo",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "995",
+    "closedate": "2025-10-15T06:27:22.260Z",
+    "createdate": "2025-10-03T08:07:49.627Z",
+    "hs_lastmodifieddate": "2026-04-05T08:57:41.387Z"
+  },
+  {
+    "id": 45092451673,
+    "dealname": "Kőrösi Csoma Sándor Két Tanítási Nyelvű Baptista Gimnázium - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3992",
+    "closedate": "2025-10-05T23:17:24.951Z",
+    "createdate": "2025-10-03T04:57:52.513Z",
+    "hs_lastmodifieddate": "2026-04-06T09:59:55.735Z"
+  },
+  {
+    "id": 45120022410,
+    "dealname": "Physics Subscription NLCS -North London Collegiate School (Singapore)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-01T20:31:25.221Z",
+    "createdate": "2025-10-02T08:36:26.564Z",
+    "hs_lastmodifieddate": "2026-04-05T17:51:29.190Z"
+  },
+  {
+    "id": 45075597937,
+    "dealname": "Carolina Gianetto -St. Francis College",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-12-09T09:46:16.138Z",
+    "createdate": "2025-10-01T18:20:22.226Z",
+    "hs_lastmodifieddate": "2025-12-31T00:16:28.853Z"
+  },
+  {
+    "id": 45002336851,
+    "dealname": "Colegio San Cayetano DP1",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1936.2",
+    "closedate": "2025-10-09T13:38:20.979Z",
+    "createdate": "2025-10-01T12:28:52.265Z",
+    "hs_lastmodifieddate": "2026-04-05T09:48:03.750Z"
+  },
+  {
+    "id": 45002336345,
+    "dealname": "Australian International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1353.2",
+    "closedate": "2025-10-08T08:58:29.114Z",
+    "createdate": "2025-10-01T12:10:10.156Z",
+    "hs_lastmodifieddate": "2026-04-05T10:23:32.325Z"
+  },
+  {
+    "id": 44785135796,
+    "dealname": "III Liceum Ogólnokształcące, Gdynia",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2025-09-30T00:28:21.483Z",
+    "createdate": "2025-09-29T14:05:46.791Z",
+    "hs_lastmodifieddate": "2026-04-05T05:11:38.259Z"
+  },
+  {
+    "id": 44788739644,
+    "dealname": "Dover Court International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "12604",
+    "closedate": "2025-11-27T08:23:56.289Z",
+    "createdate": "2025-09-29T11:57:14.954Z",
+    "hs_lastmodifieddate": "2026-04-05T09:53:33.441Z"
+  },
+  {
+    "id": 44822019479,
+    "dealname": "Golden Ratio Madhavi Kapadia - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2325",
+    "closedate": "2025-09-29T23:17:49.251Z",
+    "createdate": "2025-09-29T10:45:19.141Z",
+    "hs_lastmodifieddate": "2026-04-05T14:57:15.460Z"
+  },
+  {
+    "id": 44585903657,
+    "dealname": "Beijing National Day School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2025-10-17T07:01:43.804Z",
+    "createdate": "2025-09-29T04:50:03.279Z",
+    "hs_lastmodifieddate": "2026-04-05T09:49:32.321Z"
+  },
+  {
+    "id": 44675362439,
+    "dealname": "SEK International School Alborán",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2025-11-13T13:29:15.689Z",
+    "createdate": "2025-09-28T22:18:34.720Z",
+    "hs_lastmodifieddate": "2026-04-05T10:31:42.860Z"
+  },
+  {
+    "id": 44544353573,
+    "dealname": "Saint Dominic's International School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-28T21:49:23.115Z",
+    "createdate": "2025-09-26T13:42:06.314Z",
+    "hs_lastmodifieddate": "2026-04-05T11:01:56.667Z"
+  },
+  {
+    "id": 44462150799,
+    "dealname": "Canadian International School - Amman - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1432",
+    "closedate": "2025-10-01T01:16:00.079Z",
+    "createdate": "2025-09-24T15:41:17.507Z",
+    "hs_lastmodifieddate": "2026-04-05T09:32:10.800Z"
+  },
+  {
+    "id": 44451529898,
+    "dealname": "Vienna International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2198.95",
+    "closedate": "2025-12-16T01:22:16.763Z",
+    "createdate": "2025-09-24T14:24:17.876Z",
+    "hs_lastmodifieddate": "2026-04-05T19:53:04.907Z"
+  },
+  {
+    "id": 44207099667,
+    "dealname": "King's Fork High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-10-15T04:44:12.201Z",
+    "createdate": "2025-09-24T03:11:12.450Z",
+    "hs_lastmodifieddate": "2026-04-05T03:29:22.830Z"
+  },
+  {
+    "id": 44323006769,
+    "dealname": "Great International School | GREAT EDUCACAO LTDA",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-23T18:42:38.290Z",
+    "createdate": "2025-09-23T18:33:43.127Z",
+    "hs_lastmodifieddate": "2026-04-05T11:45:17.702Z"
+  },
+  {
+    "id": 44162497568,
+    "dealname": "St Andrew's International School Bahamas",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-29T23:11:09.463Z",
+    "createdate": "2025-09-23T15:19:37.569Z",
+    "hs_lastmodifieddate": "2026-04-05T16:00:38.823Z"
+  },
+  {
+    "id": 44133525644,
+    "dealname": "Dover Court International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "962",
+    "closedate": "2025-12-09T09:39:44.769Z",
+    "createdate": "2025-09-23T06:52:23.981Z",
+    "hs_lastmodifieddate": "2026-04-05T09:10:47.814Z"
+  },
+  {
+    "id": 44085944159,
+    "dealname": "Leonardo André Broering -Coree International School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-24T11:05:29.454Z",
+    "createdate": "2025-09-22T14:50:25.204Z",
+    "hs_lastmodifieddate": "2026-04-05T06:12:49.306Z"
+  },
+  {
+    "id": 44041013909,
+    "dealname": "Connecticut IB Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-22T23:28:15.436Z",
+    "createdate": "2025-09-22T13:54:05.200Z",
+    "hs_lastmodifieddate": "2026-04-06T17:57:47.454Z"
+  },
+  {
+    "id": 43948458603,
+    "dealname": "International School of Europe - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-22T02:25:45.549Z",
+    "createdate": "2025-09-22T01:37:30.288Z",
+    "hs_lastmodifieddate": "2026-04-06T01:03:12.657Z"
+  },
+  {
+    "id": 44034425396,
+    "dealname": "Guajome Park Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-22T23:33:23.421Z",
+    "createdate": "2025-09-21T22:25:10.984Z",
+    "hs_lastmodifieddate": "2026-04-05T10:12:27.077Z"
+  },
+  {
+    "id": 43948457308,
+    "dealname": "Yago School",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3839.48",
+    "closedate": "2025-10-01T01:14:05.162Z",
+    "createdate": "2025-09-21T22:14:08.282Z",
+    "hs_lastmodifieddate": "2026-04-06T14:18:20.441Z"
+  },
+  {
+    "id": 43896966170,
+    "dealname": "Bilkent Erzurum Laboratory School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-28T23:54:23.254Z",
+    "createdate": "2025-09-19T03:47:52.696Z",
+    "hs_lastmodifieddate": "2026-04-06T05:50:19.555Z"
+  },
+  {
+    "id": 43898871473,
+    "dealname": "Shiv Nadar School Noida - EducatorPro Max (All Teachers)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "2786",
+    "closedate": "2025-12-09T00:12:28.452Z",
+    "createdate": "2025-09-18T22:27:57.547Z",
+    "hs_lastmodifieddate": "2026-04-05T02:23:11.911Z"
+  },
+  {
+    "id": 43827740287,
+    "dealname": "El Alsson American International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-22T01:34:18.554Z",
+    "createdate": "2025-09-17T13:23:36.955Z",
+    "hs_lastmodifieddate": "2026-04-04T20:31:54.390Z"
+  },
+  {
+    "id": 43834853487,
+    "dealname": "HS Library Sekolah Ciputra -Sekolah Ciputra, Surabaya",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-18T09:26:14.061Z",
+    "createdate": "2025-09-17T01:37:11.849Z",
+    "hs_lastmodifieddate": "2026-04-04T21:13:06.201Z"
+  },
+  {
+    "id": 43739917446,
+    "dealname": "American Cooperative School of Tunis - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "5980",
+    "closedate": "2025-09-16T10:43:43.985Z",
+    "createdate": "2025-09-16T10:43:37.749Z",
+    "hs_lastmodifieddate": "2026-04-05T10:06:45.106Z"
+  },
+  {
+    "id": 43809501563,
+    "dealname": "AMADEUS International School Vienna",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-24T04:21:15.733Z",
+    "createdate": "2025-09-16T07:17:43.386Z",
+    "hs_lastmodifieddate": "2026-04-05T04:08:47.664Z"
+  },
+  {
+    "id": 43739850897,
+    "dealname": "United World College Maastricht - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1432",
+    "closedate": "2025-10-15T09:52:35.194Z",
+    "createdate": "2025-09-16T01:51:34.814Z",
+    "hs_lastmodifieddate": "2026-04-08T10:05:10.701Z"
+  },
+  {
+    "id": 43739414280,
+    "dealname": "Melissa Christensen - International School of Hellerup",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "747",
+    "closedate": "2025-09-15T09:34:09.633Z",
+    "createdate": "2025-09-15T09:34:21.624Z",
+    "hs_lastmodifieddate": "2026-04-05T07:03:33.552Z"
+  },
+  {
+    "id": 43719808033,
+    "dealname": "Riverside High School (Riverside Unified School District)",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-10-15T03:09:17.391Z",
+    "createdate": "2025-09-15T04:59:32.414Z",
+    "hs_lastmodifieddate": "2026-04-06T06:03:20.039Z"
+  },
+  {
+    "id": 43542938399,
+    "dealname": "Christian Alliance International School - 2 Year Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "996",
+    "closedate": "2025-10-03T04:06:16.761Z",
+    "createdate": "2025-09-12T02:36:16.633Z",
+    "hs_lastmodifieddate": "2026-04-05T12:29:48.439Z"
+  },
+  {
+    "id": 43576207457,
+    "dealname": "American International School-Chennai ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3558.2",
+    "closedate": "2025-09-22T01:33:09.417Z",
+    "createdate": "2025-09-11T13:25:39.180Z",
+    "hs_lastmodifieddate": "2026-04-05T11:46:32.663Z"
+  },
+  {
+    "id": 43542977939,
+    "dealname": "Chaman Bhartiya School Bangalore - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-15T12:06:52.681Z",
+    "createdate": "2025-09-11T13:22:47.777Z",
+    "hs_lastmodifieddate": "2026-04-05T10:33:06.951Z"
+  },
+  {
+    "id": 43542975915,
+    "dealname": "Colegio Nuestra Señora del Recuerdo ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1194",
+    "closedate": "2026-02-02T00:32:44.433Z",
+    "createdate": "2025-09-11T12:19:29.705Z",
+    "hs_lastmodifieddate": "2026-04-05T04:57:10.287Z"
+  },
+  {
+    "id": 43602400333,
+    "dealname": "Sara Eldrainy -Narmer American College",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-11T12:37:00.965Z",
+    "createdate": "2025-09-11T05:29:19.568Z",
+    "hs_lastmodifieddate": "2026-04-05T09:59:28.944Z"
+  },
+  {
+    "id": 43576133415,
+    "dealname": "Palmer Trinity  School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "636.6",
+    "closedate": "2025-09-11T02:42:54.124Z",
+    "createdate": "2025-09-11T00:09:48.764Z",
+    "hs_lastmodifieddate": "2026-04-05T09:48:08.378Z"
+  },
+  {
+    "id": 43576132413,
+    "dealname": "Candor International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-18T09:26:27.917Z",
+    "createdate": "2025-09-10T22:53:06.210Z",
+    "hs_lastmodifieddate": "2026-04-05T07:39:25.692Z"
+  },
+  {
+    "id": 43530691988,
+    "dealname": "Escola Americana Rio de Janeiro - Barra - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "5702.02",
+    "closedate": "2025-09-17T01:04:20.111Z",
+    "createdate": "2025-09-10T11:41:44.148Z",
+    "hs_lastmodifieddate": "2026-04-05T06:40:05.073Z"
+  },
+  {
+    "id": 43522959733,
+    "dealname": "DPS International",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-10-07T03:43:14.013Z",
+    "createdate": "2025-09-10T07:03:25.335Z",
+    "hs_lastmodifieddate": "2026-04-05T10:34:07.951Z"
+  },
+  {
+    "id": 43525110859,
+    "dealname": "Harare International School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "6676.62",
+    "closedate": "2025-09-11T05:54:22.827Z",
+    "createdate": "2025-09-10T00:53:34.372Z",
+    "hs_lastmodifieddate": "2026-04-05T10:43:49.876Z"
+  },
+  {
+    "id": 43491456520,
+    "dealname": "Internatsschule Louisenlund ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "4442.41",
+    "closedate": "2025-09-28T23:21:52.400Z",
+    "createdate": "2025-09-09T03:55:04.624Z",
+    "hs_lastmodifieddate": "2026-04-05T07:21:33.440Z"
+  },
+  {
+    "id": 43441410948,
+    "dealname": "Diocesan School for Girls - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "8233",
+    "closedate": "2026-01-13T23:45:12.093Z",
+    "createdate": "2025-09-08T08:57:21.184Z",
+    "hs_lastmodifieddate": "2026-04-06T00:35:28.262Z"
+  },
+  {
+    "id": 43407989135,
+    "dealname": "Gymnázium A. Sládkoviča - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1375",
+    "closedate": "2025-09-10T11:25:13.659Z",
+    "createdate": "2025-09-08T08:39:04.403Z",
+    "hs_lastmodifieddate": "2026-04-05T10:51:41.300Z"
+  },
+  {
+    "id": 43441408178,
+    "dealname": "Kunming World Youth Academy - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1940",
+    "closedate": "2025-09-08T09:51:16.207Z",
+    "createdate": "2025-09-08T06:04:32.603Z",
+    "hs_lastmodifieddate": "2026-04-05T10:53:03.959Z"
+  },
+  {
+    "id": 43407985247,
+    "dealname": "Schools of the Sacred Heart - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "1691",
+    "closedate": "2025-10-03T01:23:06.711Z",
+    "createdate": "2025-09-08T02:35:02.364Z",
+    "hs_lastmodifieddate": "2026-04-05T11:34:09.671Z"
+  },
+  {
+    "id": 43461709645,
+    "dealname": "Colegio Brains María Lombillo",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-09-17T15:16:33.010Z",
+    "createdate": "2025-09-07T16:38:13.300Z",
+    "hs_lastmodifieddate": "2026-04-05T11:40:48.476Z"
+  },
+  {
+    "id": 43383516796,
+    "dealname": "Richard Fluit -Renaissance International School Saigon",
+    "dealstage": "1009776422",
+    "pipeline": "689991596",
+    "amount": "597",
+    "closedate": "2025-12-09T07:55:38.213Z",
+    "createdate": "2025-09-05T02:52:06.687Z",
+    "hs_lastmodifieddate": "2026-04-05T05:31:57.395Z"
+  },
+  {
+    "id": 43316304219,
+    "dealname": "Ju-Hee Kim -Branksome Hall Asia",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-05T00:39:40.163Z",
+    "createdate": "2025-09-03T05:56:54.864Z",
+    "hs_lastmodifieddate": "2026-04-05T06:13:36.189Z"
+  },
+  {
+    "id": 43245445981,
+    "dealname": "EMIRATES NATIONAL SCHOOLS – SHJ.BR - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-06T09:44:54.100Z",
+    "createdate": "2025-09-02T01:57:05.676Z",
+    "hs_lastmodifieddate": "2026-04-05T12:48:16.602Z"
+  },
+  {
+    "id": 43156570914,
+    "dealname": "American School of The Hague - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-15T23:15:21.327Z",
+    "createdate": "2025-09-01T13:14:13.479Z",
+    "hs_lastmodifieddate": "2026-04-05T14:19:45.131Z"
+  },
+  {
+    "id": 43163673867,
+    "dealname": "Yew Chung International School Pudong Shanghai - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-10-01T02:22:13.645Z",
+    "createdate": "2025-09-01T03:22:26.048Z",
+    "hs_lastmodifieddate": "2026-04-05T08:44:29.390Z"
+  },
+  {
+    "id": 43195939648,
+    "dealname": "Carey Baptist Grammar School | 2nd Instalment ",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "3797.52",
+    "closedate": "2025-09-01T03:18:27.174Z",
+    "createdate": "2025-09-01T03:18:07.969Z",
+    "hs_lastmodifieddate": "2026-04-05T02:26:20.724Z"
+  },
+  {
+    "id": 43108617388,
+    "dealname": "Oscar F. Smith High School - New Deal",
+    "dealstage": "1009776421",
+    "pipeline": "689991596",
+    "amount": "796",
+    "closedate": "2025-09-08T00:47:03.791Z",
+    "createdate": "2025-08-29T06:02:37.244Z",
+    "hs_lastmodifieddate": "2026-04-06T01:51:59.584Z"
+  },
+  {
+    "id": 58952546844,
+    "dealname": "Ping Ping Wang -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-08T12:19:15Z",
+    "createdate": "2026-04-08T12:19:22.527Z",
+    "hs_lastmodifieddate": "2026-04-08T12:19:50.376Z"
+  },
+  {
+    "id": 58902396938,
+    "dealname": "Alexander Ogilvie",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2025-04-23T09:59:48.801Z",
+    "createdate": "2026-04-08T09:59:53.988Z",
+    "hs_lastmodifieddate": "2026-04-08T10:01:00.756Z"
+  },
+  {
+    "id": 58963549806,
+    "dealname": "Niocie Browne -Kaohsiung American School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-08T08:48:15Z",
+    "createdate": "2026-04-08T08:48:23.273Z",
+    "hs_lastmodifieddate": "2026-04-08T08:49:19.749Z"
+  },
+  {
+    "id": 58963234893,
+    "dealname": "Niocie Browne -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-08T05:21:05Z",
+    "createdate": "2026-04-08T05:21:09.039Z",
+    "hs_lastmodifieddate": "2026-04-08T05:32:19.558Z"
+  },
+  {
+    "id": 58902392581,
+    "dealname": "Cyneric Amegadzie",
+    "dealstage": "1009885613",
+    "pipeline": "689993556",
+    "amount": "299",
+    "closedate": "2026-05-08T04:14:46.084Z",
+    "createdate": "2026-04-08T04:20:03.567Z",
+    "hs_lastmodifieddate": "2026-04-08T04:23:26.788Z"
+  },
+  {
+    "id": 58902453932,
+    "dealname": "Richard Salome -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-07T17:43:46.574Z",
+    "createdate": "2026-04-07T17:36:26.299Z",
+    "hs_lastmodifieddate": "2026-04-08T02:34:57.472Z"
+  },
+  {
+    "id": 58896971094,
+    "dealname": "Amed Cadalso -La Paz Community School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-07T14:23:11Z",
+    "createdate": "2026-04-07T14:23:18.281Z",
+    "hs_lastmodifieddate": "2026-04-07T14:33:56.382Z"
+  },
+  {
+    "id": 58896725136,
+    "dealname": "Alison Smith -Atlantic Community High School",
+    "dealstage": "1009885616",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-08T11:50:50.900Z",
+    "createdate": "2026-04-07T13:42:59.583Z",
+    "hs_lastmodifieddate": "2026-04-08T11:50:54.019Z"
+  },
+  {
+    "id": 58889899676,
+    "dealname": "Dabeer Abbas -",
+    "dealstage": "1009885616",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-07T09:21:56.194Z",
+    "createdate": "2026-04-07T07:41:27.973Z",
+    "hs_lastmodifieddate": "2026-04-07T12:38:44.337Z"
+  },
+  {
+    "id": 58885105992,
+    "dealname": "Matthew Kramer -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-07T01:31:28Z",
+    "createdate": "2026-04-07T01:31:32.016Z",
+    "hs_lastmodifieddate": "2026-04-07T01:31:50.211Z"
+  },
+  {
+    "id": 58885832117,
+    "dealname": "Matthew Kramer -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-07T01:28:27Z",
+    "createdate": "2026-04-07T01:28:31.285Z",
+    "hs_lastmodifieddate": "2026-04-07T01:28:49.752Z"
+  },
+  {
+    "id": 58883733626,
+    "dealname": "Desirae Matthew -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-06T21:49:31.516Z",
+    "createdate": "2026-04-06T21:40:34.832Z",
+    "hs_lastmodifieddate": "2026-04-07T02:53:03.835Z"
+  },
+  {
+    "id": 58714930278,
+    "dealname": "Paul Becker-Hounslow -International School Hannover Region",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-03T12:42:39Z",
+    "createdate": "2026-04-03T12:42:46.449Z",
+    "hs_lastmodifieddate": "2026-04-04T20:09:17.360Z"
+  },
+  {
+    "id": 58714927462,
+    "dealname": "ALEXANDRA KOUTRI -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-03T11:52:05Z",
+    "createdate": "2026-04-03T11:52:12.457Z",
+    "hs_lastmodifieddate": "2026-04-07T18:33:27.598Z"
+  },
+  {
+    "id": 58729439794,
+    "dealname": "Shala Turner -Tirana International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-03T06:17:38Z",
+    "createdate": "2026-04-03T06:17:45.242Z",
+    "hs_lastmodifieddate": "2026-04-04T20:08:52.400Z"
+  },
+  {
+    "id": 58720267332,
+    "dealname": "Madalena Zancan -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T01:45:59.331Z",
+    "createdate": "2026-04-03T01:44:15.791Z",
+    "hs_lastmodifieddate": "2026-04-03T05:12:34.392Z"
+  },
+  {
+    "id": 58675435586,
+    "dealname": "Khulile Dlamini -Waterford Kamhlaba United World College of Southern Africa",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-02T09:26:03Z",
+    "createdate": "2026-04-02T09:26:19.594Z",
+    "hs_lastmodifieddate": "2026-04-03T19:15:02.819Z"
+  },
+  {
+    "id": 58673293467,
+    "dealname": "ronald rose -Beijing Haidian Foreign Language Tengfei School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-02T08:45:25Z",
+    "createdate": "2026-04-02T08:45:33.597Z",
+    "hs_lastmodifieddate": "2026-04-03T19:17:36.289Z"
+  },
+  {
+    "id": 58672942765,
+    "dealname": "HUIHUA HUANG -Shenzhen Foreign Languages GBA Academy",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-05-02T08:06:41Z",
+    "createdate": "2026-04-02T08:06:48.465Z",
+    "hs_lastmodifieddate": "2026-04-03T19:14:55.320Z"
+  },
+  {
+    "id": 58634211200,
+    "dealname": "Katia Keshishian - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-02T09:44:25.604Z",
+    "createdate": "2026-04-02T07:28:00.733Z",
+    "hs_lastmodifieddate": "2026-04-02T11:57:19.932Z"
+  },
+  {
+    "id": 58669836598,
+    "dealname": "Daiju Vithayathil -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-02T03:07:49Z",
+    "createdate": "2026-04-02T03:07:52.973Z",
+    "hs_lastmodifieddate": "2026-04-03T19:18:28.340Z"
+  },
+  {
+    "id": 58671006833,
+    "dealname": "Daiju Vithayathil -Panyaden International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-02T03:07:30Z",
+    "createdate": "2026-04-02T03:07:34.679Z",
+    "hs_lastmodifieddate": "2026-04-03T19:13:52.298Z"
+  },
+  {
+    "id": 58670814359,
+    "dealname": "Daiju Vithayathil -Panyaden International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-02T03:06:50Z",
+    "createdate": "2026-04-02T03:06:55.240Z",
+    "hs_lastmodifieddate": "2026-04-03T19:15:19.622Z"
+  },
+  {
+    "id": 58646328402,
+    "dealname": "Divya Sharma -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-01T21:24:11.525Z",
+    "createdate": "2026-04-01T21:21:08.924Z",
+    "hs_lastmodifieddate": "2026-04-02T23:31:41.485Z"
+  },
+  {
+    "id": 58655496793,
+    "dealname": "Divya Sharma -My school ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-01T20:57:31Z",
+    "createdate": "2026-04-01T20:57:39.840Z",
+    "hs_lastmodifieddate": "2026-04-02T16:10:12.243Z"
+  },
+  {
+    "id": 58634239388,
+    "dealname": "LUMINA INSTITUTII DE INVATAMINT - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-01T09:45:45.960Z",
+    "createdate": "2026-04-01T09:44:02.663Z",
+    "hs_lastmodifieddate": "2026-04-01T13:34:52.446Z"
+  },
+  {
+    "id": 58630707095,
+    "dealname": "Mario Willyam",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "358",
+    "closedate": "2026-04-01T09:32:24.972Z",
+    "createdate": "2026-04-01T07:56:10.341Z",
+    "hs_lastmodifieddate": "2026-04-07T09:43:31.342Z"
+  },
+  {
+    "id": 58638233365,
+    "dealname": "Christos Xyrafakis -Platon School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-01T06:30:29Z",
+    "createdate": "2026-04-01T06:30:37.083Z",
+    "hs_lastmodifieddate": "2026-04-02T16:10:10.315Z"
+  },
+  {
+    "id": 58630505644,
+    "dealname": "Richard Harvie - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T18:21:24.431Z",
+    "createdate": "2026-03-31T18:20:47.606Z",
+    "hs_lastmodifieddate": "2026-03-31T18:25:40.613Z"
+  },
+  {
+    "id": 58604164961,
+    "dealname": "John Roskovensky -Wilmington Friends School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T12:33:27.581Z",
+    "createdate": "2026-03-31T12:27:03.588Z",
+    "hs_lastmodifieddate": "2026-03-31T18:34:27.930Z"
+  },
+  {
+    "id": 58608781912,
+    "dealname": "Urvi Yadav -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-05-01T10:41:50Z",
+    "createdate": "2026-03-31T10:42:11.170Z",
+    "hs_lastmodifieddate": "2026-04-01T17:56:21.430Z"
+  },
+  {
+    "id": 58595951518,
+    "dealname": "Urvi Yadav -Manav Rachna International School",
+    "dealstage": "1009885615",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-31T10:40:57.555Z",
+    "createdate": "2026-03-31T10:39:20.190Z",
+    "hs_lastmodifieddate": "2026-04-04T05:52:06.237Z"
+  },
+  {
+    "id": 58604765604,
+    "dealname": "Pinaki Ghosh -Dhirubhai Ambani International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-01T09:39:23Z",
+    "createdate": "2026-03-31T09:39:29.639Z",
+    "hs_lastmodifieddate": "2026-04-01T17:53:24.187Z"
+  },
+  {
+    "id": 58599274108,
+    "dealname": "Panos Laganas",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-30T09:08:18.566Z",
+    "createdate": "2026-03-31T09:08:39.148Z",
+    "hs_lastmodifieddate": "2026-04-04T07:02:10.879Z"
+  },
+  {
+    "id": 58599212818,
+    "dealname": "Daniel Palacios",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "299",
+    "closedate": "2026-03-25T09:00:45.932Z",
+    "createdate": "2026-03-31T09:00:50.871Z",
+    "hs_lastmodifieddate": "2026-03-31T12:45:37.624Z"
+  },
+  {
+    "id": 58588984987,
+    "dealname": "Pinaki Ghosh -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T08:51:35.485Z",
+    "createdate": "2026-03-31T08:49:13.176Z",
+    "hs_lastmodifieddate": "2026-04-01T02:14:45.620Z"
+  },
+  {
+    "id": 58595469716,
+    "dealname": "Seoyoung Lee -my school is not listed ",
+    "dealstage": "1009885615",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-07T01:03:08.002Z",
+    "createdate": "2026-03-31T08:08:58.619Z",
+    "hs_lastmodifieddate": "2026-04-07T01:03:58.854Z"
+  },
+  {
+    "id": 58566944772,
+    "dealname": "Kelly Reeves",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-13T07:09:23.379Z",
+    "createdate": "2026-03-31T07:36:59.760Z",
+    "hs_lastmodifieddate": "2026-04-06T17:25:54.940Z"
+  },
+  {
+    "id": 58612497289,
+    "dealname": "Hong Trieu -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-05-01T03:31:45Z",
+    "createdate": "2026-03-31T03:31:50.221Z",
+    "hs_lastmodifieddate": "2026-04-01T17:53:19.716Z"
+  },
+  {
+    "id": 58559274345,
+    "dealname": "Carine Labonté -École secondaire publique Le Sommet",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-30T16:33:51.952Z",
+    "createdate": "2026-03-30T16:22:53.460Z",
+    "hs_lastmodifieddate": "2026-03-31T05:22:43.440Z"
+  },
+  {
+    "id": 58555454889,
+    "dealname": "Ayse Merdinler -Freelance",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-30T14:54:09Z",
+    "createdate": "2026-03-30T14:54:26.305Z",
+    "hs_lastmodifieddate": "2026-03-31T18:06:20.936Z"
+  },
+  {
+    "id": 58474757434,
+    "dealname": "Rania Saied - New Deal",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-29T10:58:22.364Z",
+    "createdate": "2026-03-30T11:02:23.536Z",
+    "hs_lastmodifieddate": "2026-04-06T20:34:49.899Z"
+  },
+  {
+    "id": 58530675539,
+    "dealname": "Marianna Tour -Rivercrest Christian College",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-30T04:50:31.936Z",
+    "createdate": "2026-03-30T04:45:15.449Z",
+    "hs_lastmodifieddate": "2026-03-31T01:33:18.051Z"
+  },
+  {
+    "id": 58474750851,
+    "dealname": "Colegio de Alto Rendimiento de Loreto - New Deal",
+    "dealstage": "1009885618",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2025-03-28T04:03:40.591Z",
+    "createdate": "2026-03-30T04:03:49.548Z",
+    "hs_lastmodifieddate": "2026-04-01T15:25:32.406Z"
+  },
+  {
+    "id": 58479558417,
+    "dealname": "MONICA PATEL - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "249",
+    "closedate": "2026-03-14T02:38:13.711Z",
+    "createdate": "2026-03-30T02:38:28.512Z",
+    "hs_lastmodifieddate": "2026-03-30T03:08:07.393Z"
+  },
+  {
+    "id": 58530018180,
+    "dealname": "Karla de la Luz Mata Ruiz -Hong Kong Academy",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-30T00:41:05Z",
+    "createdate": "2026-03-30T00:41:13.447Z",
+    "hs_lastmodifieddate": "2026-03-31T18:11:13.327Z"
+  },
+  {
+    "id": 58474748071,
+    "dealname": "Luis Chaverri",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-06T14:02:46.185Z",
+    "createdate": "2026-03-29T23:04:31.100Z",
+    "hs_lastmodifieddate": "2026-04-07T02:07:32.873Z"
+  },
+  {
+    "id": 58527865953,
+    "dealname": "nesrine ghozi -british academy of tunis ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-29T15:24:30Z",
+    "createdate": "2026-03-29T15:24:37.714Z",
+    "hs_lastmodifieddate": "2026-03-30T20:08:45.304Z"
+  },
+  {
+    "id": 58518015289,
+    "dealname": "Sonia Fowler -Malvern College Egypt",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-29T11:40:27.603Z",
+    "createdate": "2026-03-29T11:38:47.749Z",
+    "hs_lastmodifieddate": "2026-04-07T08:18:54.935Z"
+  },
+  {
+    "id": 58510059442,
+    "dealname": "Sonia Fowler -Malvern College Egypt",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-29T07:40:55Z",
+    "createdate": "2026-03-29T07:41:01.040Z",
+    "hs_lastmodifieddate": "2026-03-30T20:00:02.780Z"
+  },
+  {
+    "id": 58503694200,
+    "dealname": "Basil Chesney -International School Dhaka",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-29T03:55:17Z",
+    "createdate": "2026-03-29T03:55:24.421Z",
+    "hs_lastmodifieddate": "2026-03-30T21:39:09.815Z"
+  },
+  {
+    "id": 58504476529,
+    "dealname": "Basil Chesney -Dhaka Internation school Bangladesh",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-29T03:56:38.651Z",
+    "createdate": "2026-03-29T03:47:57.814Z",
+    "hs_lastmodifieddate": "2026-03-30T05:09:36.908Z"
+  },
+  {
+    "id": 58511782978,
+    "dealname": "Nir Navon -UWC USA",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-27T17:26:24Z",
+    "createdate": "2026-03-27T17:26:31.074Z",
+    "hs_lastmodifieddate": "2026-03-28T19:51:48.135Z"
+  },
+  {
+    "id": 58404191118,
+    "dealname": "ERMIONI MOSCHIDOU - New Deal",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-26T02:46:11.494Z",
+    "createdate": "2026-03-27T02:46:39.087Z",
+    "hs_lastmodifieddate": "2026-04-07T18:53:15.501Z"
+  },
+  {
+    "id": 58431810078,
+    "dealname": "Fiona Thangata -International School of Kenya",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T06:48:50.683Z",
+    "createdate": "2026-03-26T18:04:20.278Z",
+    "hs_lastmodifieddate": "2026-04-04T05:26:28.223Z"
+  },
+  {
+    "id": 58369220618,
+    "dealname": "Carlos Machado -Colégio Suíço-Brasileiro de Curitiba",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-26T10:59:22.609Z",
+    "createdate": "2026-03-26T10:51:19.934Z",
+    "hs_lastmodifieddate": "2026-04-08T02:46:14.105Z"
+  },
+  {
+    "id": 58332232586,
+    "dealname": "Marta Golemi",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-26T09:26:49.561Z",
+    "createdate": "2026-03-26T09:28:47.090Z",
+    "hs_lastmodifieddate": "2026-04-05T19:06:14.067Z"
+  },
+  {
+    "id": 58382020177,
+    "dealname": "Marta Golemi -Leigh academy wilmington",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-26T08:05:57Z",
+    "createdate": "2026-03-26T08:06:04.475Z",
+    "hs_lastmodifieddate": "2026-03-26T08:06:32.959Z"
+  },
+  {
+    "id": 58377017496,
+    "dealname": "IISH Library -Indus International School Hyderabad",
+    "dealstage": "1009885616",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-26T06:19:29.796Z",
+    "createdate": "2026-03-26T06:17:29.865Z",
+    "hs_lastmodifieddate": "2026-04-06T03:47:39.113Z"
+  },
+  {
+    "id": 58382141776,
+    "dealname": "Rebecca Russell-Saunders -Wesley College, Melbourne",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-25T21:18:20Z",
+    "createdate": "2026-03-25T21:18:26.605Z",
+    "hs_lastmodifieddate": "2026-04-06T06:00:57.254Z"
+  },
+  {
+    "id": 58328566909,
+    "dealname": "Andrea Pannell -Yonkers Middle/High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-25T12:53:26Z",
+    "createdate": "2026-03-25T12:53:34.002Z",
+    "hs_lastmodifieddate": "2026-04-05T12:28:22.329Z"
+  },
+  {
+    "id": 58295759388,
+    "dealname": "Margel Simpson East Valley High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2025-02-26T08:49:17.542Z",
+    "createdate": "2026-03-25T08:49:27.722Z",
+    "hs_lastmodifieddate": "2026-04-04T18:57:17.654Z"
+  },
+  {
+    "id": 58295636014,
+    "dealname": "Tuba Celik - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-25T08:11:06.846Z",
+    "createdate": "2026-03-25T08:11:17.494Z",
+    "hs_lastmodifieddate": "2026-03-25T08:17:39.114Z"
+  },
+  {
+    "id": 58318143780,
+    "dealname": "Sonia Fowler -Malvern College Egypt",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-25T06:56:07Z",
+    "createdate": "2026-03-25T06:56:13.979Z",
+    "hs_lastmodifieddate": "2026-04-06T05:58:55.491Z"
+  },
+  {
+    "id": 58289381749,
+    "dealname": "Ravi Mathapati",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T23:38:02.587Z",
+    "createdate": "2026-03-25T04:08:09.305Z",
+    "hs_lastmodifieddate": "2026-04-02T22:22:57.589Z"
+  },
+  {
+    "id": 58289380955,
+    "dealname": "Bill Sebring - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-03T02:39:20.317Z",
+    "createdate": "2026-03-25T02:39:30.773Z",
+    "hs_lastmodifieddate": "2026-03-25T22:02:48.668Z"
+  },
+  {
+    "id": 58330497701,
+    "dealname": "Ravi Mathapati -Fukuoka International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-24T21:18:29Z",
+    "createdate": "2026-03-24T21:18:37.471Z",
+    "hs_lastmodifieddate": "2026-04-06T06:03:58.938Z"
+  },
+  {
+    "id": 58258147630,
+    "dealname": "Alejandro Samaniego -Shortridge High School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T13:34:56.872Z",
+    "createdate": "2026-03-24T13:28:36.037Z",
+    "hs_lastmodifieddate": "2026-03-25T03:59:36.292Z"
+  },
+  {
+    "id": 58266907045,
+    "dealname": "Marinés Conroy -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-24T11:56:23Z",
+    "createdate": "2026-03-24T11:56:27.224Z",
+    "hs_lastmodifieddate": "2026-04-05T08:04:32.892Z"
+  },
+  {
+    "id": 58270094749,
+    "dealname": "Wassif Benlarbi -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-24T09:30:33Z",
+    "createdate": "2026-03-24T09:30:38.266Z",
+    "hs_lastmodifieddate": "2026-04-05T03:40:58.539Z"
+  },
+  {
+    "id": 58254626839,
+    "dealname": "Pakorn RV EducatorPro Biology",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-22T07:22:07.515Z",
+    "createdate": "2026-03-24T07:22:30.884Z",
+    "hs_lastmodifieddate": "2026-03-24T07:23:37.633Z"
+  },
+  {
+    "id": 58254688314,
+    "dealname": "Adonis Monzer - Private Tutors ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T06:43:51.908Z",
+    "createdate": "2026-03-24T06:43:13.064Z",
+    "hs_lastmodifieddate": "2026-03-31T13:26:07.506Z"
+  },
+  {
+    "id": 58254809636,
+    "dealname": "Hui Lin - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T13:59:54.718Z",
+    "createdate": "2026-03-24T03:41:48.304Z",
+    "hs_lastmodifieddate": "2026-03-25T14:33:22.968Z"
+  },
+  {
+    "id": 58248559700,
+    "dealname": "Ayami Abel -Mount Vernon High School (NY)",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T02:03:56.819Z",
+    "createdate": "2026-03-23T15:59:50.216Z",
+    "hs_lastmodifieddate": "2026-03-25T02:03:57.454Z"
+  },
+  {
+    "id": 58246875994,
+    "dealname": "David Williams -High Point Central High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-23T13:39:02Z",
+    "createdate": "2026-03-23T13:39:09.979Z",
+    "hs_lastmodifieddate": "2026-04-05T08:05:17.255Z"
+  },
+  {
+    "id": 58243144468,
+    "dealname": "Erika Pena Portela -Saint Kentigern College",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-23T03:09:51Z",
+    "createdate": "2026-03-23T03:09:59.904Z",
+    "hs_lastmodifieddate": "2026-04-06T08:05:26.328Z"
+  },
+  {
+    "id": 58238604185,
+    "dealname": "Pelin Gurel Can -Verdala International School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-23T10:47:46.373Z",
+    "createdate": "2026-03-22T19:24:50.083Z",
+    "hs_lastmodifieddate": "2026-03-25T21:24:22.702Z"
+  },
+  {
+    "id": 58238577779,
+    "dealname": "JACQUES LIGONIE -International School of Dakar",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-22T18:50:46Z",
+    "createdate": "2026-03-22T18:50:53.094Z",
+    "hs_lastmodifieddate": "2026-04-05T16:53:04.870Z"
+  },
+  {
+    "id": 58231693159,
+    "dealname": "Mairead Slattery -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-22T09:17:43Z",
+    "createdate": "2026-03-22T09:17:48.424Z",
+    "hs_lastmodifieddate": "2026-04-05T08:04:10.807Z"
+  },
+  {
+    "id": 58223026725,
+    "dealname": "Mairead Slattery -mslattery@uasdubai.ae",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-22T09:17:32Z",
+    "createdate": "2026-03-22T09:17:41.486Z",
+    "hs_lastmodifieddate": "2026-04-04T18:58:47.303Z"
+  },
+  {
+    "id": 58206965876,
+    "dealname": "Deborah Dale -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-21T13:12:04Z",
+    "createdate": "2026-03-21T13:12:11.534Z",
+    "hs_lastmodifieddate": "2026-04-06T01:36:36.443Z"
+  },
+  {
+    "id": 58209740066,
+    "dealname": "Dina Tagaeva -Canadian International School of Beijing",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-21T06:26:17Z",
+    "createdate": "2026-03-21T06:26:24.123Z",
+    "hs_lastmodifieddate": "2026-04-06T05:56:58.891Z"
+  },
+  {
+    "id": 58226940248,
+    "dealname": "Adriana Ślusarz -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T14:26:30.081Z",
+    "createdate": "2026-03-20T21:41:27.852Z",
+    "hs_lastmodifieddate": "2026-03-25T18:33:15.734Z"
+  },
+  {
+    "id": 58208311622,
+    "dealname": "Hacer E Maths EducatorPro",
+    "dealstage": "1009885618",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-20T16:32:21.466Z",
+    "createdate": "2026-03-20T16:29:49.917Z",
+    "hs_lastmodifieddate": "2026-04-05T09:33:29.402Z"
+  },
+  {
+    "id": 58134874467,
+    "dealname": "Valeria Lucia Gili - Mathematics",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-20T16:45:45.122Z",
+    "createdate": "2026-03-20T08:58:35.389Z",
+    "hs_lastmodifieddate": "2026-03-23T02:24:49.275Z"
+  },
+  {
+    "id": 58197656346,
+    "dealname": "Adriana Ślusarz -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-20T08:50:40Z",
+    "createdate": "2026-03-20T08:50:46.991Z",
+    "hs_lastmodifieddate": "2026-04-05T16:54:47.563Z"
+  },
+  {
+    "id": 58197014618,
+    "dealname": "Dongcheng Liu -my school is not listed",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-20T05:45:52Z",
+    "createdate": "2026-03-20T05:46:00.641Z",
+    "hs_lastmodifieddate": "2026-04-05T12:23:17.482Z"
+  },
+  {
+    "id": 58134784110,
+    "dealname": "Nicholas Ting - New Deal",
+    "dealstage": "1009885618",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-23T02:36:56.155Z",
+    "createdate": "2026-03-19T10:05:48.009Z",
+    "hs_lastmodifieddate": "2026-04-02T18:24:17.613Z"
+  },
+  {
+    "id": 58136042897,
+    "dealname": "Shan Liu - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-18T09:28:27.215Z",
+    "createdate": "2026-03-19T09:21:48.320Z",
+    "hs_lastmodifieddate": "2026-03-20T00:27:54.883Z"
+  },
+  {
+    "id": 58134781037,
+    "dealname": "Amie Quinn ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-25T06:06:06.878Z",
+    "createdate": "2026-03-19T06:06:51.869Z",
+    "hs_lastmodifieddate": "2026-04-05T07:12:13.494Z"
+  },
+  {
+    "id": 58136039751,
+    "dealname": "Claire Fletcher-Jones ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "498",
+    "closedate": "2026-03-19T04:24:10.532Z",
+    "createdate": "2026-03-19T04:24:14.019Z",
+    "hs_lastmodifieddate": "2026-04-01T08:45:40.697Z"
+  },
+  {
+    "id": 58136100262,
+    "dealname": "Isaac Bergerman - Aulas Particulares - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-18T02:24:56.871Z",
+    "createdate": "2026-03-19T02:25:07.885Z",
+    "hs_lastmodifieddate": "2026-03-19T02:44:16.029Z"
+  },
+  {
+    "id": 58798334231,
+    "dealname": "Jurupa Hills High School - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-20T03:19:28.069Z",
+    "createdate": "2026-03-18T23:30:53.894Z",
+    "hs_lastmodifieddate": "2026-04-07T19:25:24.559Z"
+  },
+  {
+    "id": 58117667196,
+    "dealname": "Marcus Went - Physics",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-01T08:59:28.101Z",
+    "createdate": "2026-03-18T08:59:48.777Z",
+    "hs_lastmodifieddate": "2026-03-31T06:03:31.822Z"
+  },
+  {
+    "id": 58098561408,
+    "dealname": "Catherine LaRocco - Mathematics",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-04T08:13:23.226Z",
+    "createdate": "2026-03-18T08:13:41.016Z",
+    "hs_lastmodifieddate": "2026-03-18T12:08:29.443Z"
+  },
+  {
+    "id": 58070710285,
+    "dealname": "Chris Scott -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-23T21:47:44.955Z",
+    "createdate": "2026-03-17T15:41:15.553Z",
+    "hs_lastmodifieddate": "2026-03-25T14:25:20.273Z"
+  },
+  {
+    "id": 58025481062,
+    "dealname": "Kardinia International College - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-17T10:20:50.413Z",
+    "createdate": "2026-03-17T10:20:51.448Z",
+    "hs_lastmodifieddate": "2026-04-06T09:42:28.263Z"
+  },
+  {
+    "id": 58066795653,
+    "dealname": "Nora Menderes -Irmak Schools",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-17T08:14:39Z",
+    "createdate": "2026-03-17T08:14:47.904Z",
+    "hs_lastmodifieddate": "2026-04-05T03:43:18.220Z"
+  },
+  {
+    "id": 58025354613,
+    "dealname": "Tony McCusker - Math",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-16T02:42:33.817Z",
+    "createdate": "2026-03-17T02:42:53.065Z",
+    "hs_lastmodifieddate": "2026-03-17T02:47:43.490Z"
+  },
+  {
+    "id": 58067402839,
+    "dealname": "Lingzhi Zhu -Shanghai World Foreign Language Academy",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-17T02:23:25.238Z",
+    "createdate": "2026-03-17T02:14:46.639Z",
+    "hs_lastmodifieddate": "2026-03-20T00:09:05.555Z"
+  },
+  {
+    "id": 58071115098,
+    "dealname": "Darshan Arya -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-17T00:28:29Z",
+    "createdate": "2026-03-17T00:28:37.619Z",
+    "hs_lastmodifieddate": "2026-04-04T23:18:23.879Z"
+  },
+  {
+    "id": 57979791727,
+    "dealname": "Samuel Goh -My school is not listed",
+    "dealstage": "1009885618",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-16T08:14:16.073Z",
+    "createdate": "2026-03-15T02:54:26.521Z",
+    "hs_lastmodifieddate": "2026-03-16T13:03:20.810Z"
+  },
+  {
+    "id": 58005896557,
+    "dealname": "Swapna Sharma -Windhoek International School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-14T20:58:05.177Z",
+    "createdate": "2026-03-14T20:54:38.788Z",
+    "hs_lastmodifieddate": "2026-03-26T05:33:30.438Z"
+  },
+  {
+    "id": 57977295924,
+    "dealname": "Monika Klimczak-Gromska -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-13T12:47:47Z",
+    "createdate": "2026-03-13T12:47:58.133Z",
+    "hs_lastmodifieddate": "2026-03-29T09:01:57.717Z"
+  },
+  {
+    "id": 57939081363,
+    "dealname": "Westminster Academy - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-13T10:47:24.916Z",
+    "createdate": "2026-03-13T10:47:27.136Z",
+    "hs_lastmodifieddate": "2026-03-15T07:49:13.546Z"
+  },
+  {
+    "id": 57971662671,
+    "dealname": "Benjamin Foreman -Australian International School Hong Kong",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-16T02:37:34.856Z",
+    "createdate": "2026-03-13T03:28:08.832Z",
+    "hs_lastmodifieddate": "2026-03-18T05:33:07.687Z"
+  },
+  {
+    "id": 57939137031,
+    "dealname": "Alan MacLean",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "299",
+    "closedate": "2026-03-13T07:55:12.487Z",
+    "createdate": "2026-03-13T00:41:50.389Z",
+    "hs_lastmodifieddate": "2026-03-13T12:11:28.134Z"
+  },
+  {
+    "id": 57951231559,
+    "dealname": "Olukunle Olatunji -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-12T13:34:57Z",
+    "createdate": "2026-03-12T13:35:11.236Z",
+    "hs_lastmodifieddate": "2026-03-29T22:14:38.468Z"
+  },
+  {
+    "id": 57946677006,
+    "dealname": "Scott Stone -Coral Reef High School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-06T13:12:35Z",
+    "createdate": "2026-03-12T13:21:47.659Z",
+    "hs_lastmodifieddate": "2026-04-07T01:56:00.423Z"
+  },
+  {
+    "id": 57939043137,
+    "dealname": "Ulises Tamez-Duque - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-06T11:32:20.285Z",
+    "createdate": "2026-03-12T11:31:53.015Z",
+    "hs_lastmodifieddate": "2026-03-13T07:24:01.653Z"
+  },
+  {
+    "id": 57942399849,
+    "dealname": "Nicole To -my shcool is not listed",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-12T10:17:24.555Z",
+    "createdate": "2026-03-12T10:13:02.048Z",
+    "hs_lastmodifieddate": "2026-04-07T05:09:46.997Z"
+  },
+  {
+    "id": 57939911203,
+    "dealname": "Kirsty Daby -Northfields",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-12T07:05:43Z",
+    "createdate": "2026-03-12T07:05:49.769Z",
+    "hs_lastmodifieddate": "2026-03-29T00:16:15.501Z"
+  },
+  {
+    "id": 57886615421,
+    "dealname": "helen Kearneym -",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-11T14:03:35.224Z",
+    "createdate": "2026-03-11T13:51:25.732Z",
+    "hs_lastmodifieddate": "2026-03-12T08:06:51.274Z"
+  },
+  {
+    "id": 57856051344,
+    "dealname": "Caroline Mavergames - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-11T14:07:38.583Z",
+    "createdate": "2026-03-11T13:43:35.514Z",
+    "hs_lastmodifieddate": "2026-03-13T12:21:33.547Z"
+  },
+  {
+    "id": 57900339745,
+    "dealname": "Raju Gurung -Ullens School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-11T11:16:44Z",
+    "createdate": "2026-03-11T11:16:51.439Z",
+    "hs_lastmodifieddate": "2026-03-30T02:31:12.999Z"
+  },
+  {
+    "id": 57865599649,
+    "dealname": "NUCB International Junior and Senior High School - New Deal",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-10T11:07:35.342Z",
+    "createdate": "2026-03-11T10:07:44.207Z",
+    "hs_lastmodifieddate": "2026-04-05T05:16:45.954Z"
+  },
+  {
+    "id": 57865594777,
+    "dealname": "Ann Jurewicz - Biology ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-26T02:25:40.929Z",
+    "createdate": "2026-03-11T02:36:47.973Z",
+    "hs_lastmodifieddate": "2026-03-26T02:27:28.558Z"
+  },
+  {
+    "id": 57890174729,
+    "dealname": "ABIGAIL LEE -Luther Burbank High School ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-10T15:43:08Z",
+    "createdate": "2026-03-10T15:43:20.208Z",
+    "hs_lastmodifieddate": "2026-03-29T00:12:31.296Z"
+  },
+  {
+    "id": 57834045733,
+    "dealname": "Maria Garcia -Fresno High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-10T14:48:08Z",
+    "createdate": "2026-03-10T14:48:19.419Z",
+    "hs_lastmodifieddate": "2026-03-29T22:14:59.002Z"
+  },
+  {
+    "id": 57857774701,
+    "dealname": "Deepak Singh -Right Training & Career Development Center",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-10T12:52:22Z",
+    "createdate": "2026-03-10T12:52:30.533Z",
+    "hs_lastmodifieddate": "2026-03-29T04:37:10.307Z"
+  },
+  {
+    "id": 57855078841,
+    "dealname": "mathematics CIRS -Chinmaya International Residential School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-10T10:25:22Z",
+    "createdate": "2026-03-10T10:25:29.751Z",
+    "hs_lastmodifieddate": "2026-03-29T00:14:32.743Z"
+  },
+  {
+    "id": 57830023534,
+    "dealname": "Hvitfeldtska Gymnasiet - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-13T10:42:27.262Z",
+    "createdate": "2026-03-10T04:49:31.804Z",
+    "hs_lastmodifieddate": "2026-03-23T13:59:07.005Z"
+  },
+  {
+    "id": 57851250332,
+    "dealname": "Australian International School Hong Kong - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-10T04:02:34.451Z",
+    "createdate": "2026-03-10T04:02:37.536Z",
+    "hs_lastmodifieddate": "2026-03-10T04:51:45.426Z"
+  },
+  {
+    "id": 57825484093,
+    "dealname": "Anisha Punjabi -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-10T02:23:45Z",
+    "createdate": "2026-03-10T02:23:52.709Z",
+    "hs_lastmodifieddate": "2026-03-30T07:02:21.273Z"
+  },
+  {
+    "id": 57844080529,
+    "dealname": "Neetha Prasad -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-10T02:09:57Z",
+    "createdate": "2026-03-10T02:10:01.138Z",
+    "hs_lastmodifieddate": "2026-03-30T06:56:05.324Z"
+  },
+  {
+    "id": 57830196277,
+    "dealname": "Danny J",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-12T07:58:24.517Z",
+    "createdate": "2026-03-09T19:17:44.161Z",
+    "hs_lastmodifieddate": "2026-04-06T06:55:35.905Z"
+  },
+  {
+    "id": 57824238093,
+    "dealname": "Barret Bell -Purcell Marian High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-09T15:30:43Z",
+    "createdate": "2026-03-09T15:30:50.506Z",
+    "hs_lastmodifieddate": "2026-04-05T03:41:27.231Z"
+  },
+  {
+    "id": 57827407270,
+    "dealname": "Gymnazium Evolution, s.r.o. -",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-12T08:36:53.499Z",
+    "createdate": "2026-03-09T15:24:19.189Z",
+    "hs_lastmodifieddate": "2026-03-16T08:42:01.261Z"
+  },
+  {
+    "id": 57830355298,
+    "dealname": "Colegio Internacional SEK-Costa Rica",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "499",
+    "closedate": "2026-03-09T15:18:23.521Z",
+    "createdate": "2026-03-09T15:18:26.470Z",
+    "hs_lastmodifieddate": "2026-03-15T07:51:50.594Z"
+  },
+  {
+    "id": 57819277634,
+    "dealname": "JEREMY MOXHAM -St George's British International School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-11T11:06:04.806Z",
+    "createdate": "2026-03-09T14:09:37.972Z",
+    "hs_lastmodifieddate": "2026-03-15T16:41:51.435Z"
+  },
+  {
+    "id": 57814910332,
+    "dealname": "Raju Gurung -Ullens School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-09T11:50:31Z",
+    "createdate": "2026-03-09T11:50:38.447Z",
+    "hs_lastmodifieddate": "2026-04-05T08:05:34.011Z"
+  },
+  {
+    "id": 57746962435,
+    "dealname": "GLADYS DALLAS - New Deal",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-08T10:02:42.476Z",
+    "createdate": "2026-03-09T10:03:14.314Z",
+    "hs_lastmodifieddate": "2026-04-08T12:02:09.273Z"
+  },
+  {
+    "id": 57801999776,
+    "dealname": "Danny J -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-09T09:14:26Z",
+    "createdate": "2026-03-09T09:14:33.490Z",
+    "hs_lastmodifieddate": "2026-04-08T12:01:52.858Z"
+  },
+  {
+    "id": 57785990739,
+    "dealname": "Indus Hyderabad -Indus International School Hyderabad",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-09T03:37:00Z",
+    "createdate": "2026-03-09T03:37:08.463Z",
+    "hs_lastmodifieddate": "2026-04-08T12:02:07.729Z"
+  },
+  {
+    "id": 57783177029,
+    "dealname": "Mudassir Mehmood - IB Demystified - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-09T02:31:37.559Z",
+    "createdate": "2026-03-09T02:31:39.504Z",
+    "hs_lastmodifieddate": "2026-04-08T12:02:22.767Z"
+  },
+  {
+    "id": 57789026092,
+    "dealname": "Sofia Syrianou",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-09T02:09:37.266Z",
+    "createdate": "2026-03-09T02:09:41.056Z",
+    "hs_lastmodifieddate": "2026-04-08T12:02:02.485Z"
+  },
+  {
+    "id": 57669023617,
+    "dealname": "Edward Kusell-Zigelman",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-09T02:03:29.986Z",
+    "createdate": "2026-03-09T02:03:34.605Z",
+    "hs_lastmodifieddate": "2026-04-08T12:01:51.100Z"
+  },
+  {
+    "id": 57765988714,
+    "dealname": "Justin Lathlean -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-09T22:09:21.282Z",
+    "createdate": "2026-03-08T20:55:44.314Z",
+    "hs_lastmodifieddate": "2026-04-08T12:02:15.097Z"
+  },
+  {
+    "id": 57765809786,
+    "dealname": "Mike Mikhael -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-08T20:37:08Z",
+    "createdate": "2026-03-08T20:37:16.250Z",
+    "hs_lastmodifieddate": "2026-04-08T12:01:54.278Z"
+  },
+  {
+    "id": 57714605876,
+    "dealname": "Adonis Monzer -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-04-07T11:25:42Z",
+    "createdate": "2026-03-07T11:25:50.859Z",
+    "hs_lastmodifieddate": "2026-04-07T12:01:57.690Z"
+  },
+  {
+    "id": 57742544971,
+    "dealname": "Lorenza Marrón -My school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-07T00:41:10.766Z",
+    "createdate": "2026-03-06T23:50:39.837Z",
+    "hs_lastmodifieddate": "2026-04-06T12:02:16.113Z"
+  },
+  {
+    "id": 57736968777,
+    "dealname": "Garret Jolly -Sunset High School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-06T20:34:32Z",
+    "createdate": "2026-03-06T20:34:39.330Z",
+    "hs_lastmodifieddate": "2026-04-08T00:18:56.176Z"
+  },
+  {
+    "id": 57653434792,
+    "dealname": "Will Maxwell -Leighton Park School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-10T20:25:16.623Z",
+    "createdate": "2026-03-06T12:28:57.498Z",
+    "hs_lastmodifieddate": "2026-04-06T12:01:56.475Z"
+  },
+  {
+    "id": 57649495719,
+    "dealname": "Jenifer Salvador -",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-06T10:24:56.907Z",
+    "createdate": "2026-03-06T10:21:37.861Z",
+    "hs_lastmodifieddate": "2026-04-05T12:02:22.561Z"
+  },
+  {
+    "id": 57592757652,
+    "dealname": "Michael Ford -Sol C. Johnson High School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-06T04:28:00.909Z",
+    "createdate": "2026-03-05T13:33:54.017Z",
+    "hs_lastmodifieddate": "2026-04-05T12:01:50.046Z"
+  },
+  {
+    "id": 57598639617,
+    "dealname": "Bhawna Khanna -Step by Step School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-05T06:46:57.984Z",
+    "createdate": "2026-03-05T06:18:43.426Z",
+    "hs_lastmodifieddate": "2026-04-04T11:02:08.172Z"
+  },
+  {
+    "id": 57552264612,
+    "dealname": "Tony Chang -Monte Vista Christian",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-05T05:05:29.135Z",
+    "createdate": "2026-03-05T03:25:52.023Z",
+    "hs_lastmodifieddate": "2026-04-04T11:02:15.415Z"
+  },
+  {
+    "id": 57565834809,
+    "dealname": "Sofia Seruitamana -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-04T22:34:38Z",
+    "createdate": "2026-03-04T22:34:41.876Z",
+    "hs_lastmodifieddate": "2026-04-06T00:56:51.429Z"
+  },
+  {
+    "id": 57520063143,
+    "dealname": "Tomas Vavra -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-04T11:18:16Z",
+    "createdate": "2026-03-04T11:18:21.121Z",
+    "hs_lastmodifieddate": "2026-04-06T00:28:21.999Z"
+  },
+  {
+    "id": 57506348468,
+    "dealname": "Bonita Vista High School - New Deal",
+    "dealstage": "1134571158",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T10:03:42.300Z",
+    "createdate": "2026-03-04T10:03:53.726Z",
+    "hs_lastmodifieddate": "2026-04-05T08:36:12.188Z"
+  },
+  {
+    "id": 57495287437,
+    "dealname": "Sunu Job -Trivandrum International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-04T09:49:52Z",
+    "createdate": "2026-03-04T09:49:59.437Z",
+    "hs_lastmodifieddate": "2026-04-06T01:36:58.146Z"
+  },
+  {
+    "id": 57506772830,
+    "dealname": "Lindsay Lee",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "249",
+    "closedate": "2026-04-03T07:37:03.956Z",
+    "createdate": "2026-03-04T07:37:34.057Z",
+    "hs_lastmodifieddate": "2026-04-03T11:02:16.595Z"
+  },
+  {
+    "id": 57488034098,
+    "dealname": "Yashar Sherzad -INTERNATIONAL MAARIF SCHOOLS ERBIL",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-04T08:48:11.696Z",
+    "createdate": "2026-03-04T07:28:54.698Z",
+    "hs_lastmodifieddate": "2026-04-03T11:01:52.518Z"
+  },
+  {
+    "id": 57447741873,
+    "dealname": "Eleni Karakosta - Physics",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T23:39:21.349Z",
+    "createdate": "2026-03-04T07:12:56.312Z",
+    "hs_lastmodifieddate": "2026-04-03T11:01:51.309Z"
+  },
+  {
+    "id": 57506888291,
+    "dealname": "Mont'Kiara International School - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-12T02:07:35.753Z",
+    "createdate": "2026-03-04T06:54:58.268Z",
+    "hs_lastmodifieddate": "2026-04-07T06:17:33.452Z"
+  },
+  {
+    "id": 57490349655,
+    "dealname": "Rachel Hollywell -British International School, Ho Chi Minh City",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-04T05:34:04.486Z",
+    "createdate": "2026-03-04T04:22:47.698Z",
+    "hs_lastmodifieddate": "2026-04-03T11:02:02.473Z"
+  },
+  {
+    "id": 57487710245,
+    "dealname": "Marciio Gato Goncalves -Escola Lourenco Castanho",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-04T03:18:09Z",
+    "createdate": "2026-03-04T03:18:16.574Z",
+    "hs_lastmodifieddate": "2026-04-06T00:28:25.804Z"
+  },
+  {
+    "id": 57488462750,
+    "dealname": "Will Maxwell -Leighton Park School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T20:38:38Z",
+    "createdate": "2026-03-03T20:38:47.049Z",
+    "hs_lastmodifieddate": "2026-04-05T00:49:53.070Z"
+  },
+  {
+    "id": 57404875549,
+    "dealname": "Priti Srinivasan -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T11:41:52Z",
+    "createdate": "2026-03-03T11:41:56.989Z",
+    "hs_lastmodifieddate": "2026-04-05T00:26:16.664Z"
+  },
+  {
+    "id": 57394343605,
+    "dealname": "Joby Joby -Singapore",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T11:13:37Z",
+    "createdate": "2026-03-03T11:13:45.591Z",
+    "hs_lastmodifieddate": "2026-04-05T00:47:30.883Z"
+  },
+  {
+    "id": 57381937075,
+    "dealname": "Indus Hyderabad -Indus International School Hyderabad",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-03T03:47:00Z",
+    "createdate": "2026-03-03T03:47:08.361Z",
+    "hs_lastmodifieddate": "2026-04-05T00:53:08.316Z"
+  },
+  {
+    "id": 57396968992,
+    "dealname": "St Edward's College - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-02T23:55:49.196Z",
+    "createdate": "2026-03-02T23:55:03.805Z",
+    "hs_lastmodifieddate": "2026-04-05T07:21:47.072Z"
+  },
+  {
+    "id": 57365731116,
+    "dealname": "Valeria Alicia Suarez Germana -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-02T17:22:56.042Z",
+    "createdate": "2026-03-02T17:19:23.308Z",
+    "hs_lastmodifieddate": "2026-04-02T11:02:00.882Z"
+  },
+  {
+    "id": 57375049600,
+    "dealname": "Kim Fralick -Woodlawn High School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-02T18:58:44.180Z",
+    "createdate": "2026-03-02T16:35:12.669Z",
+    "hs_lastmodifieddate": "2026-04-02T11:02:07.578Z"
+  },
+  {
+    "id": 57343622065,
+    "dealname": "Angel U -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-02T13:34:32.090Z",
+    "createdate": "2026-03-02T13:30:50.331Z",
+    "hs_lastmodifieddate": "2026-04-02T11:02:15.521Z"
+  },
+  {
+    "id": 57323960142,
+    "dealname": "Patrick Lanouette -Benjamin Franklin International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-02T12:48:16Z",
+    "createdate": "2026-03-02T12:48:32.305Z",
+    "hs_lastmodifieddate": "2026-04-04T00:12:19.208Z"
+  },
+  {
+    "id": 57339925919,
+    "dealname": "Josephine Toulou -my school is not listed",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-02T12:31:29Z",
+    "createdate": "2026-03-02T12:31:35.745Z",
+    "hs_lastmodifieddate": "2026-04-04T00:57:24.481Z"
+  },
+  {
+    "id": 57307671605,
+    "dealname": "Bonita Vista High School - New Deal",
+    "dealstage": "1009885613",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-01T10:17:56.251Z",
+    "createdate": "2026-03-02T10:18:02.875Z",
+    "hs_lastmodifieddate": "2026-04-05T14:43:43.854Z"
+  },
+  {
+    "id": 57329319947,
+    "dealname": "Vanessa Malkani -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-02T09:00:19Z",
+    "createdate": "2026-03-02T09:00:26.553Z",
+    "hs_lastmodifieddate": "2026-04-04T01:07:57.912Z"
+  },
+  {
+    "id": 57200813409,
+    "dealname": "Town Centre Private Schools - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "132.66",
+    "closedate": "2026-03-04T00:22:13.155Z",
+    "createdate": "2026-03-02T08:48:13.284Z",
+    "hs_lastmodifieddate": "2026-04-05T08:37:18.039Z"
+  },
+  {
+    "id": 57293352038,
+    "dealname": "Vasundhara Rangarajan -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-04-01T13:54:34Z",
+    "createdate": "2026-03-01T13:54:41.998Z",
+    "hs_lastmodifieddate": "2026-04-06T01:31:20.865Z"
+  },
+  {
+    "id": 57216663480,
+    "dealname": "Arnaldo E Cohen Cohen -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-28T18:32:11.689Z",
+    "createdate": "2026-02-28T17:42:04.402Z",
+    "hs_lastmodifieddate": "2026-03-31T11:02:00.622Z"
+  },
+  {
+    "id": 57249736888,
+    "dealname": "Alfian go -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-28T15:03:12Z",
+    "createdate": "2026-02-28T15:03:18.255Z",
+    "hs_lastmodifieddate": "2026-04-06T05:54:40.440Z"
+  },
+  {
+    "id": 57242198018,
+    "dealname": "Assane NDIAYE -Cours Sainte Marie de Hann",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-28T12:59:52Z",
+    "createdate": "2026-02-28T12:59:58.676Z",
+    "hs_lastmodifieddate": "2026-04-05T21:15:20.924Z"
+  },
+  {
+    "id": 57198294097,
+    "dealname": "Yejun Lim -my school is not listed",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-28T10:55:40Z",
+    "createdate": "2026-02-28T10:55:48.158Z",
+    "hs_lastmodifieddate": "2026-04-04T23:17:28.796Z"
+  },
+  {
+    "id": 57212208237,
+    "dealname": "ERMIONI MOSCHIDOU -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-31T09:24:23.119Z",
+    "createdate": "2026-02-28T10:42:58.238Z",
+    "hs_lastmodifieddate": "2026-03-31T11:56:39.750Z"
+  },
+  {
+    "id": 57140547940,
+    "dealname": "Andrew Gilmour -Craig Kielburger Secondary School",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-27T13:55:26.414Z",
+    "createdate": "2026-02-27T13:41:44.464Z",
+    "hs_lastmodifieddate": "2026-03-30T11:02:08.733Z"
+  },
+  {
+    "id": 57160219048,
+    "dealname": "Claire-Suzanne Borg -St Edward's College",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-27T09:25:19Z",
+    "createdate": "2026-02-27T09:25:27.678Z",
+    "hs_lastmodifieddate": "2026-04-05T12:25:42.073Z"
+  },
+  {
+    "id": 58566940701,
+    "dealname": "Anna Ryden -European School of Bruxelles-Argenteuil",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-30T10:14:41.969Z",
+    "createdate": "2026-02-27T06:55:52.007Z",
+    "hs_lastmodifieddate": "2026-03-31T00:55:10.652Z"
+  },
+  {
+    "id": 57099178503,
+    "dealname": "Anna Hawliczek -XXXVLO zO.Dwujęzycznymi im.B.Prusa 35thPrusHigh",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-01T17:17:14.199Z",
+    "createdate": "2026-02-26T20:11:06.099Z",
+    "hs_lastmodifieddate": "2026-03-29T11:02:33.491Z"
+  },
+  {
+    "id": 57040929610,
+    "dealname": "Siobhan Asiedu -Emirates International School - Jumeirah",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-26T10:50:44.569Z",
+    "createdate": "2026-02-26T10:47:42.224Z",
+    "hs_lastmodifieddate": "2026-03-28T11:02:04.682Z"
+  },
+  {
+    "id": 57030586664,
+    "dealname": "Jennifer Hood - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-26T10:14:04.739Z",
+    "createdate": "2026-02-26T10:13:22.454Z",
+    "hs_lastmodifieddate": "2026-03-28T11:02:12.901Z"
+  },
+  {
+    "id": 57021841218,
+    "dealname": "Private Tutor - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-01-28T03:33:00.480Z",
+    "createdate": "2026-02-26T03:33:03.281Z",
+    "hs_lastmodifieddate": "2026-03-28T11:01:52.856Z"
+  },
+  {
+    "id": 57034879526,
+    "dealname": "Paul Brennan -my school is not listed ",
+    "dealstage": "1009885618",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-06T04:06:44.772Z",
+    "createdate": "2026-02-26T03:30:24.848Z",
+    "hs_lastmodifieddate": "2026-03-28T11:02:02.660Z"
+  },
+  {
+    "id": 57030460077,
+    "dealname": "Preshil - The Margaret Lyttle Memorial School - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-19T10:38:44.043Z",
+    "createdate": "2026-02-26T02:10:36.151Z",
+    "hs_lastmodifieddate": "2026-03-28T11:02:19.511Z"
+  },
+  {
+    "id": 57099953024,
+    "dealname": "Katia Mejia -my school is not listed",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-26T19:37:18.070Z",
+    "createdate": "2026-02-25T21:24:25.670Z",
+    "hs_lastmodifieddate": "2026-03-28T11:01:55.542Z"
+  },
+  {
+    "id": 57018097517,
+    "dealname": "tolga özen -my school is not listed ",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-25T14:43:23Z",
+    "createdate": "2026-02-25T14:43:38.950Z",
+    "hs_lastmodifieddate": "2026-04-05T21:12:51.509Z"
+  },
+  {
+    "id": 56958928957,
+    "dealname": "Beatriz Silva Chávez -Colegio de Alto Rendimiento de Apurímac",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-25T14:12:06Z",
+    "createdate": "2026-02-25T14:12:18.437Z",
+    "hs_lastmodifieddate": "2026-04-05T16:49:12.780Z"
+  },
+  {
+    "id": 56981278123,
+    "dealname": "smita badwe -my school is not listed ",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-24T15:37:53.717Z",
+    "createdate": "2026-02-24T15:32:37.297Z",
+    "hs_lastmodifieddate": "2026-03-27T11:01:58.104Z"
+  },
+  {
+    "id": 56944497262,
+    "dealname": "Docente Coar -Colegio de Alto Rendimiento de Huancavelica ( COAR_HUANCAVELICA)",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T13:31:20Z",
+    "createdate": "2026-02-24T13:31:36.491Z",
+    "hs_lastmodifieddate": "2026-04-05T21:06:41.448Z"
+  },
+  {
+    "id": 56938665840,
+    "dealname": "Anthony Kakuru -International School of Uganda",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T12:42:14Z",
+    "createdate": "2026-02-24T12:42:24.862Z",
+    "hs_lastmodifieddate": "2026-04-05T03:42:31.703Z"
+  },
+  {
+    "id": 56947582793,
+    "dealname": "Abhishek Valaboju -Sreenidhi International School",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-24T11:55:29Z",
+    "createdate": "2026-02-24T11:55:42.869Z",
+    "hs_lastmodifieddate": "2026-04-05T21:10:49.791Z"
+  },
+  {
+    "id": 56896816182,
+    "dealname": "Rebecca CHENG - Tamagawa Academy K-12 and University",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "399",
+    "closedate": "2026-01-29T08:33:16.575Z",
+    "createdate": "2026-02-24T08:33:17.654Z",
+    "hs_lastmodifieddate": "2026-03-26T11:02:07.452Z"
+  },
+  {
+    "id": 56959550866,
+    "dealname": "Hui Koon Lau -One World International School Pte Ltd",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-24T03:22:43.552Z",
+    "createdate": "2026-02-24T03:19:28.606Z",
+    "hs_lastmodifieddate": "2026-03-26T11:02:27.855Z"
+  },
+  {
+    "id": 56709726834,
+    "dealname": "Shore Regional High School - New Deal",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-02-23T10:45:53.038Z",
+    "createdate": "2026-02-23T10:19:22.934Z",
+    "hs_lastmodifieddate": "2026-04-05T00:03:44.284Z"
+  },
+  {
+    "id": 56858823992,
+    "dealname": "vanessa malkani -",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-23T06:41:11Z",
+    "createdate": "2026-02-23T06:41:16.838Z",
+    "hs_lastmodifieddate": "2026-04-06T01:29:51.206Z"
+  },
+  {
+    "id": 56709595195,
+    "dealname": "Growmore Books",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "398",
+    "closedate": "2026-03-04T13:24:54.921Z",
+    "createdate": "2026-02-22T22:09:54.620Z",
+    "hs_lastmodifieddate": "2026-04-06T03:37:52.383Z"
+  },
+  {
+    "id": 56752527514,
+    "dealname": "Veronique Barrot -Europe",
+    "dealstage": "1009885614",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-03-22T09:32:09Z",
+    "createdate": "2026-02-22T09:32:19.404Z",
+    "hs_lastmodifieddate": "2026-03-28T19:49:38.505Z"
+  },
+  {
+    "id": 56820572206,
+    "dealname": "Lucy Saunders -",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-21T18:34:33.449Z",
+    "createdate": "2026-02-21T18:30:43.341Z",
+    "hs_lastmodifieddate": "2026-03-24T11:02:02.253Z"
+  },
+  {
+    "id": 56758160309,
+    "dealname": "Carlos Humberto Ruiz Pineda -Tecnológico de Monterrey - Campus Eugenio Garza Lagüera",
+    "dealstage": "1009885617",
+    "pipeline": "689993556",
+    "amount": "199",
+    "closedate": "2026-02-21T05:47:54.610Z",
+    "createdate": "2026-02-21T05:42:14.315Z",
+    "hs_lastmodifieddate": "2026-03-23T11:01:58.054Z"
+  }
+]

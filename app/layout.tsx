@@ -7,8 +7,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "RV Quote Generator",
-  description: "Internal tool for generating school quotes",
+  title: "RV Sales Pipeline & Quote Generator",
+  description: "Internal tool for managing school sales pipeline and generating quotes",
 };
 
 export default function RootLayout({

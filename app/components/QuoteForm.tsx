@@ -4,6 +4,7 @@ import { useState } from "react";
 import { QuoteData, LineItem, calculateGrandTotal } from "@/lib/types";
 import { TEMPLATES } from "@/lib/templates";
 import dynamic from "next/dynamic";
+import Link from "next/link";
 
 const PDFDownloadButton = dynamic(() => import("./PDFDownloadButton"), {
   ssr: false,
@@ -36,23 +37,37 @@ const EMPTY_LINE_ITEM: LineItem = {
   discountPercent: 0,
 };
 
-export default function QuoteForm() {
+interface Prefill {
+  schoolName: string;
+  contactName: string;
+  contactEmail: string;
+  country: string;
+  region: string;
+  templateType: "full-suite" | "educator-pro" | "custom";
+  numberOfStudents: number;
+}
+
+export default function QuoteForm({ prefill }: { prefill?: Prefill }) {
+  const templateKey = prefill?.templateType ?? "full-suite";
+  const templateItems = TEMPLATES[templateKey].lineItems.map((li) => ({
+    ...li,
+    id: generateId(),
+    numberOfUsers: prefill?.numberOfStudents ?? li.numberOfUsers,
+  }));
+
   const [data, setData] = useState<QuoteData>({
-    schoolName: "",
+    schoolName: prefill?.schoolName ?? "",
     streetAddress: "",
     postcode: "",
     city: "",
-    region: "",
-    country: "",
-    contactName: "",
-    contactEmail: "",
+    region: prefill?.region ?? "",
+    country: prefill?.country ?? "",
+    contactName: prefill?.contactName ?? "",
+    contactEmail: prefill?.contactEmail ?? "",
     quoteDate: todayFormatted(),
     preparedBy: "",
-    templateType: "full-suite",
-    lineItems: TEMPLATES["full-suite"].lineItems.map((li) => ({
-      ...li,
-      id: generateId(),
-    })),
+    templateType: templateKey,
+    lineItems: templateItems,
     additionalDiscountLabel: "",
     additionalDiscountPercent: 0,
   });
@@ -102,13 +117,21 @@ export default function QuoteForm() {
 
   return (
     <div className="max-w-5xl mx-auto px-6 py-10">
-      <div className="mb-8">
-        <h1 className="text-3xl font-bold text-gray-900">
-          RV Quote Generator
-        </h1>
-        <p className="text-gray-500 mt-1">
-          Generate professional quotes for school partnerships
-        </p>
+      <div className="mb-8 flex items-start justify-between">
+        <div>
+          <h1 className="text-3xl font-bold text-gray-900">
+            RV Quote Generator
+          </h1>
+          <p className="text-gray-500 mt-1">
+            Generate professional quotes for school partnerships
+          </p>
+        </div>
+        <Link
+          href="/pipeline"
+          className="text-sm text-blue-600 hover:text-blue-800 font-medium"
+        >
+          Sales Pipeline →
+        </Link>
       </div>
 
       <div className="space-y-8">
